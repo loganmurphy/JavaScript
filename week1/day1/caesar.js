@@ -4,6 +4,7 @@
 
 var decript = 'travhf jvgubhg rqhpngvba vf yvxr fvyire va gur zvar.';
 var ciper = 'genius without education is like silver in the mine.'
+
 function ceasar_cipher(message) {
   var letters = message;
   temp_collector = '';
@@ -33,3 +34,4 @@ function ceasar_cipher(message) {
 }
 
 ceasar_cipher(ciper);
+// ceasar_cipher(decript);

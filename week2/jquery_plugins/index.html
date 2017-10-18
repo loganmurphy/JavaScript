@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Reverse</title>
+    <meta charset="UTF-8">
+  </head>
+  <body>
+    <h1 id='cool'>Hello!</h1>
+    <p id='cool'>Hello!</p>
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src='reverse_plugin.js'></script>
+    <script>
+    // $("#cool").reverse();
+    $('h1, p').reverse();
+    </script>
+  </body>
+</html>
+
+
+<!-- // Write your own
+//
+// Reverse plugin
+//
+// Write a jQuery plugin that will reverse the text on the elements it is applied to. Usage:
+//
+// $('button').reverse();
+//
+// This will cause the text of all buttons on the page to reverse.
+// -->
+
+<!-- $.fn.reverse = function () {
+  this.click(function () {
+    var array = this.text().split(,);
+    console.log(array);
+
+  });
+}
+
+$(".some-selector").hello(); -->

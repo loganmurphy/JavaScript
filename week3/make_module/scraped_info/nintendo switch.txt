@@ -1,0 +1,1863 @@
+		
+		
+		
+			
+
+							
+						
+
+			Nintendo Switch
+									
+									From Wikipedia, the free encyclopedia
+								  (Redirected from Nintendo switch)
+												
+					Jump to:					navigation, 					search
+				
+				
+Nintendo Switch
+
+
+
+
+
+
+
+
+
+A Nintendo Switch console in docked mode (above) and portable mode (below).
+
+
+
+Also known as
+NX (code name)
+
+
+Developer
+Nintendo
+
+
+Manufacturer
+Nintendo PTD
+
+
+Type
+Hybrid video game console
+
+
+Release date
+
+
+WW: March 3, 2017[a]
+
+
+
+
+Retail availability
+2017–present
+
+
+Introductory price
+
+
+
+US$299.99
+JP¥29,980
+£279.99
+€329.99
+AU$469.95
+
+
+
+
+
+Units sold
+4.7 million (as of June 30, 2017)
+
+
+Media
+
+
+Physical and digital
+
+
+
+Game Card
+Digital distribution (Nintendo eShop)
+
+
+
+
+
+
+
+Operating system
+Nintendo Switch system software
+
+
+System-on-chip used
+Nvidia Tegra X1
+
+
+CPU
+Octa-core (4×ARM Cortex-A57 & 4×ARM Cortex-A53) @ 1.020 GHz
+
+
+Memory
+4 GB LPDDR4
+
+
+Storage
+Internal flash memory: 32 GB
+
+
+Removable storage
+microSD/microSDHC/microSDXC up to 2 TB
+
+
+Display
+6.2-inch, 1280 × 720p LCD @ 237 ppi
+Up to 1080p via HDMI while docked
+
+
+Graphics
+Nvidia GM20B Maxwell-based GPU @ 307.2 - 384 MHz while undocked, 307.2 - 768 MHz while docked
+
+
+Sound
+Linear PCM 5.1ch (via HDMI)
+Stereo speakers
+Headphone jack
+
+
+Controller input
+Joy-Con
+Pro Controller
+
+
+Touchpad
+Capacitive
+
+
+Connectivity
+2.4/5 GHz 802.11ac Wi-Fi
+Bluetooth 4.1
+1 × USB 3.0 (on dock)
+2 × USB 2.0 (on dock)
+1 × USB Type-C (on unit)
+
+
+Power
+4,310 mAh, 3.7 V lithium-ion battery
+
+
+Dimensions
+23.9 by 10.2 by 1.4 centimetres (9.41 in × 4.02 in × 0.55 in) (Console only)
+
+
+Weight
+297 grams (10.5 oz) (Console only)
+
+
+Best-selling game
+The Legend of Zelda: Breath of the Wild, 4 million (as of August 10, 2017)
+
+
+Predecessor
+Wii U
+
+
+Website
+www.nintendo.com/switch
+
+
+The Nintendo Switch[b] is the seventh major video game console developed by Nintendo. Known in development by its codename NX, it was unveiled in October 2016 and was released worldwide on March 3, 2017.[a] Nintendo considers the Switch a "hybrid" console; it is designed primarily as a home console, with the main unit inserted onto a docking station to connect to a television. Alternatively, it can be removed from the dock and used similarly to a tablet computer through its LCD touchscreen, or placed in a standalone tabletop mode visible to several players. The Switch uses Joy-Con wireless controllers, which include standard buttons and a directional joystick for user input, motion sensing, and high-definition tactile feedback. The Joy-Con can attach to both sides of the console to support handheld-style play, connect to a Grip accessory to provide a traditional home console gamepad form, or be used individually in the hand like the Wii Remote, supporting local multiplayer modes. The Switch's software supports online gaming through standard Internet connectivity, as well as local wireless ad hoc connectivity with other Switch consoles. Switch games and software are available on both physical flash ROM cartridges and digital distribution; the system does not use region locking. The Switch competes on the console gaming market with contemporaries Sony PlayStation 4 and Microsoft Xbox One.
+The concept of the Switch came about as Nintendo's reaction to several quarters of financial losses into 2014, attributed to poor sales of its previous console, the Wii U, and market competition from mobile gaming. Then-Nintendo president Satoru Iwata pushed the company towards mobile gaming and novel hardware. The Switch's design is aimed at a wide demographic of video game players through the multiple modes of use. Nintendo opted to use more standard electronic components, such as a chipset based on Nvidia's Tegra line, to make development for the console easier for programmers and more compatible with existing game engines. As the Wii U had struggled to gain external support, leaving it with a weak software library, Nintendo preemptively sought the support of many third-party developers and publishers to help build out the Switch's game library alongside Nintendo's own first-party titles, including many independent video game studios. Prior to launch, Nintendo had announced that over 100 titles were in development by 70 developers.
+The console shipped over 2.74 million units in the first month of its launch, exceeding Nintendo's initial projection of 2 million units, and making it the fastest-selling home console in its history. Switch sales were highly tied to the critically acclaimed The Legend of Zelda: Breath of the Wild, released alongside the console's launch worldwide.
+
+
+
+Contents
+
+
+1 History
+
+1.1 Development
+1.2 Announcements and release
+1.3 Marketing and promotion
+
+
+2 Hardware
+
+2.1 Console and Dock
+2.2 Joy-Con
+2.3 Technical specifications
+2.4 Other controllers and accessories
+2.5 Production
+
+
+3 Software
+
+3.1 Online services
+3.2 Media support
+
+
+4 Games
+
+4.1 Distribution
+4.2 Third-party support
+4.3 Library
+
+
+5 Reception
+
+5.1 Pre-release
+5.2 Release
+5.3 Sales
+5.4 Financial impact
+
+
+6 Retail configurations
+7 Legal challenges
+8 Notes
+9 References
+10 External links
+
+
+
+History[edit]
+Development[edit]
+Nintendo saw 2014 as one of its largest financial losses in its modern history, attributed to weak hardware sales against mobile gaming.[2] Previously, the company had been hesitant about this market, with then-president Satoru Iwata considering that they would "cease to be Nintendo" and lose their identity if they attempted to enter it.[3] About three years prior to the Switch's announcement, Iwata, Tatsumi Kimishima, Genyo Takeda, and Shigeru Miyamoto crafted a strategy for revitalizing Nintendo's business model, which included approaching the mobile market, creating new hardware, and "maximizing [their] intellectual property".[4] Prior to his death, Iwata was able to secure a business alliance with Japanese mobile provider DeNA to develop mobile titles based on Nintendo's first-party franchises, believing this approach would not compromise their integrity.[5][6] Following Iwata's death in July 2015, Kimishima was named as president of Nintendo, while Miyamoto was promoted to the title of "Creative Fellow".[4]
+Kimishima stated that when Nintendo was evaluating what new hardware they wanted to produce, they "didn't just want a successor" to either the Nintendo 3DS or Wii U, but instead asked "what kind of new experience can we create?"[4] In an interview with Asahi Shimbun, Kimishima stated that the Switch was designed to provide a "new way to play" that would "have a larger impact than the Wii U".[7][8][9] Nintendo of America president and COO Reggie Fils-Aimé emphasized the console's appeal as a device that would provide gamers the option to play at home or on the go, and noted that it would enable developers to create new types of games.[10]
+Shinya Takahashi, general manager of Nintendo's Entertainment Planning & Development division (EPD), considered that the Switch's design addresses the cultural differences between Western and Japanese gamers, particularly students; while Japanese students generally spend more time together after school and where gaming is integral to that social time, Western students tend to have busier schedules that limit this, making the portability features of the Switch capable of meeting both lifestyles.[11] In some cases, games for the Switch are designed to encourage social interactions in groups, such as 1-2-Switch which requires players to look face-to-face rather than at the screen. Kimishima said that, as Nintendo is an entertainment company, they see games on the Switch that encourage enjoyable social interactions as supporting their ultimate goals.[12] The "Switch" name was selected not only to refer to the console's ability to switch from handheld to home console modes, but to present "the idea of being a 'switch' that will flip and change the way people experience entertainment in their daily lives".[13]
+EPD deputy general manager Yoshiaki Koizumi served as the general producer of the Switch during development.[11] According to Miyamoto, the Switch's development within Nintendo was headed by younger employees, with him saying "...it's really been them that have put this forward and designed this system".[14] Miyamoto, Takeda, and Iwata were less involved, but provided necessary oversight on the Switch's development principally around the cost of implementing new features that would make the Switch stand out.[15] For Miyamoto, his limited involvement allowed him to spend more time on Nintendo's software titles being developed at the time, such as Super Mario Run.[14]
+The development of the Switch continued Nintendo's blue ocean approach for the competitive console marketplace. Rather than trying to compete feature-for-feature with Microsoft or Sony's offerings, Fils-Aimé said that Nintendo's goal for the Switch was "creating products and experiences that are unique and really can't be copied by our competition".[16] Takahashi said that for Nintendo, "we feel like we're an entertainment company rather than necessarily a games or a graphics company", and described the Switch as "a system that really has the best balance of being able to create fun and new ways to play, but doing so with the graphic quality that's still good enough while also being one that's easy to develop for."[11] Miyamoto said that some broad concepts of the Switch extend from the "lateral thinking with seasoned technology" design philosophy of Gunpei Yokoi that Nintendo has used over the last couple of decades.[15]
+One choice made by the development team was to use an existing system on a chip (SOC) rather than creating their own as they had done on previous consoles. Koizumi said that this break from tradition was done to gain more third-party support for the console by using an SOC that developers could easily port to. Koizumi said that they were not focused on raw processing power, but were instead looking to balance the overall features of the system, including battery life and size. For this reason, they did not opt to use the more powerful hardware they could have used, instead using a middle-ground approach to achieve their vision of the Switch.[17]
+The first public news of the Switch hardware happened alongside the announcement of Nintendo and DeNA's partnership on March 17, 2015. At this stage, Nintendo referred to the console under the codename "NX", and described it as a "brand new concept".[18] At an investor's meeting in April 2016, Nintendo announced that it planned to release the NX worldwide in March 2017.[19][20] While Nintendo did not unveil the NX's hardware at Electronic Entertainment Expo 2016 in June, it did announce that The Legend of Zelda: Breath of the Wild, which was originally announced as Wii U-exclusive, would also be released for the NX. At a Nintendo shareholders' meeting following the conference, Miyamoto stated that the company had concerns that competitors could copy ideas from the NX if they revealed it too soon.[21][22] The following month, rumors began to surface surrounding the nature of the console, including its use of Nvidia Tegra hardware, and being a "hybrid" device intended for both home and mobile use.[23][24][25]
+Announcements and release[edit]
+On October 20, 2016, Nintendo officially announced the console under the name Nintendo Switch, alongside a trailer that demonstrated the hardware's nature as a hybrid device.[26] At the time of the trailer's release, Nintendo did not provide many details on features of the platform, though they planned to have events in 2017 to provide more details about the console. The company did state that there are additional features that were not presented in the introductory trailer.[27][28] Miyamoto and Fils-Aimé presented the Switch to host Jimmy Fallon on a broadcast of The Tonight Show Starring Jimmy Fallon in December 2016. In addition to showing more of the console's hardware and functionality, Fallon was given the opportunity to play part of Breath of the Wild live.[29]
+Nintendo revealed technical details of the Switch, including its worldwide launch date and price, at a press event in Tokyo on January 13, 2017.[30] The event was livestreamed,[31] with an English voiceover provided by Nintendo of Europe through their broadcast and regional Twitter accounts relaying details in other languages. A Nintendo Treehouse event occurred the following day to reveal the full launch lineup and upcoming games for the Switch.[32]
+The Switch was officially released on March 3, 2017 worldwide, notably in all key markets, but excluding some parts of Asia, including India and mainland China.[1] However, the Nintendo Switch continues to be officially released in particular markets, such as Argentina on August 15, 2017,[33] and in South Korea and Taiwan on December 1, 2017.[34][35] The Nintendo Switch was also released in Brazil circa May 2017, after Nintendo assigned NC Games as their local distributor, since Nintendo exited the Brazilian market back in 2015.[36]
+Marketing and promotion[edit]
+
+
+
+
+Nintendo sought to avoid the struggles it had with communicating the capabilities of the Switch's predecessor, the Wii U, whose GamePad (left) some mistook as a tablet-based system rather than a controller for the console.
+
+
+A key part of marketing the Switch was to be "crystal clear in our communication of what the product was and what the product could do", according to Fils-Aimé, so as to avoid similar issues with how they presented the Wii U.[37][38] While the Wii U was designed as a home console unit, Nintendo's lack of clarity on this point led to a general assumption that the unit, principally the Wii U GamePad, was more like a tablet, overshadowing the Wii U's other features (such as dual-screen play modes). Nintendo also believed that some consumers had mistaken the Wii U GamePad as being an accessory for the existing Wii console, rather than being the flagship feature of an entirely new platform.[39] Instead, for the Switch, Fils-Aimé said the company was "very aggressive and clearly communicating the proposition that it's a home console you can take on the go wherever and whenever you want".[37]
+For example, the October 2016 trailer (considered significantly unlike Nintendo's past marketing efforts, according to Bloomberg[4]) was designed to show the various ways that the Switch can be used so that viewers would recognize that "each of its forms offer different play experiences for people to enjoy".[13] Kimishima said that the intent of the trailer was to show that the device was aimed across all player demographics, showcasing features that core gamers would recognize and appreciate to carry this intent.[4] A large amount of Nintendo's launch marketing for the console focused heavily on the launch title Breath of the Wild; Nintendo's marketing executive, Nick Chavez, stated that the decision to showcase the new Zelda game was meant to promote it to both older viewers, who may have grown up with the franchise's earliest games and are accustomed to modern open world games, and to a new generation of players.[40]
+Nintendo aired its first-ever Super Bowl ad during the United States broadcast of Super Bowl LI. Set to the Imagine Dragons song "Believer",[41] the ad showcased the various play modes with the Switch and its launch titles, particularly Breath of the Wild, and upcoming releases; while an ad to celebrate the 20th anniversary of Pokémon was broadcast the previous year during Super Bowl 50, this ad was paid for by The Pokémon Company and not by Nintendo.[42][43][44] Chavez said of the ad, "There's no bigger stage in the U.S. on which to showcase the platform. I think it speaks to our confidence in the system."[40]
+Additional television commercials are expected to follow the Super Bowl spot, which are to demonstrate Switch's use cases among different demographics, as well as "casual" and "core" gaming audiences.[40] Such ad venues included the 2017 NCAA Division I Men's Basketball Tournament, the 2017 Kids' Choice Awards, and on programming blocks for Nickelodeon, Adult Swim, and Comedy Central.[41] Chavez emphasized that Nintendo's overall marketing for Switch would not be "just a six to eight week launch campaign", but "really a 15 month campaign for us, to say nothing of our plans for 2018".[40]
+
+
+
+
+The Grand Palais in Paris, France during the Switch media event on January 15, 2017
+
+
+In addition to advertising, Nintendo had planned several ways for players to try the system before its release through various "sampling events". Kimishima felt that it was important, particularly for "career gamers", for Nintendo to get the Switch into players' hands, so that players could understand how the system differs from Nintendo's previous offerings. Kimishima also said that the company was "running a guerrilla marketing program where we're just dashing around and trying to have as many events as possible and get it in the hands of players so they can experience the difference."[12] The North American and European press had special events on January 13, 2017, following the Tokyo presentation.[45][46] Various Switch demonstration events were run in North America, Europe, and Japan during January and February 2017.[47][48][49][50] Nintendo offered demonstrations of the Switch at gaming conferences including PAX South, South by Southwest, and RTX.[51][52][53] Nintendo also promoted the Switch through an "Unexpected Places" campaign in February 2017, temporarily setting up living-room style spaces in three United States locations and inviting fans and players, including John Cena, to try out the unit.[54]
+Hardware[edit]
+
+
+
+
+The back of the Nintendo Switch, showing the kickstand, MicroSD slot, charging port and intake vents.
+
+
+The Nintendo Switch is a hybrid video game console, with the main system comprising the "Switch Console", the "Switch Dock", and the "Joy-Con" controllers. Although it is a hybrid console, Fils-Aimé stated that the Switch is "a home console that you can take with you on the go".[55][56] Fils-Aimé said that the Switch and their primary handheld console, the Nintendo 3DS, are meant to co-exist,[55] with Kimishima considering the 3DS an entry-level product for younger players.[57] The company had planned to diminish production of the Wii U in anticipation of the Switch's release, and formally announced the end of its production on January 31, 2017.[58][59]
+Console and Dock[edit]
+The main unit of the Switch is the Console, a battery-powered tablet-like monitor that comprises an LCD screen measuring 6.2 inches (16 cm) on its diagonal, the same as the Wii U GamePad.[60] The unit itself measures 23.9 by 10.2 by 1.4 centimetres (9.41 in × 4.02 in × 0.55 in) and weighs 297 grams (10.5 oz).[61] The screen supports ten-point multi-touch capacitive sensing and includes haptic technology from Immersion Corporation.[62] The LCD screen supports resolutions up to 720p (1280×720 px).[63][64] The Console includes a 3.5 mm audio jack, stereo speakers on the bottom of the unit, a USB-C port for charging while out of the Dock, and a kickstand on the back side.[65][66] The unit also includes slots for a game card (cartridge-based media) and a microSD external storage card to be installed or removed. The Console has rails on the side, into which the Joy-Con controllers can be slid when removed from the base.[67] An ambient light sensor on the front of the Console can be used to control the screen's brightness.[61]
+
+
+
+
+The Nintendo Switch Dock
+
+
+
+
+
+
+The back of the dock, opened.
+
+
+The Console, with or without Joy-Con attached, can be placed into the Switch Dock, a docking station with electrical connectors to connect the Console to a power supply to charge its battery, and to a television via an HDMI connection for video/audio output.[26] The Dock also includes one USB 3.0 and two USB 2.0 ports.[67] While docked, the unit can support resolutions up to 1080p and maximum frame rate of 60 frames per second,[68][69] though the maximum resolution varies depending on the game. As an example, The Legend of Zelda: Breath of the Wild runs at a maximum 900p and 30 frames per second while the Switch is docked.[70] The Dock measures 17.3 by 10.4 by 5.4 centimetres (6.8 in × 4.1 in × 2.1 in) and weighs 327 grams (11.5 oz).[61]
+There are three gameplay modes that can be used with the Switch; "TV Mode" with the Console docked within the Dock to support play on a large television, "Tabletop Mode" with the Console placed on a table or other surface using its kickstand for shared gaming away from a dedicated screen, or in "Handheld Mode" as a standard portable tablet device.[71][68][64] Users can switch between these modes simply by placing or removing the Console from the Dock, extending or retracting the kickstand, and detaching or connecting the Joy-Con.[64] Games may be designed to play only in specific modes; for example, Voez, which relies on touch-screen controls, initially could not be played in TV Mode.[72]
+Nintendo stated that the Switch is a "single-screen experience", in that the player either sees the content on the Console when it is out of the Dock, or on the screen attached to the Dock when the Console is docked. The Switch cannot feature dual-screen functionality that was offered through the Wii U via its GamePad.[73]
+Joy-Con[edit]
+Main article: Joy-Con
+
+
+
+
+The gray Joy-Con L and Joy-Con R controllers.
+
+
+
+
+
+
+The neon red and blue Joy-Con attached to the Joy-Con Grip controller.
+
+
+The Nintendo Switch comes with controllers collectively called Joy-Con, individually called the "Joy-Con L" and "Joy-Con R".[61] The controllers are attached to the Switch Console via side rails using a locking mechanism, with a small release button on their rear face to allow them to be detached. When detached, they can be used as a pair by a single player, attached to a grip that emulates a gamepad form factor, or used as separate controllers by two individual players. A single Switch console can support up to eight Joy-Con connections.[74] Straps can be attached to the sides of Joy-Con when they are detached.[61][68]
+Each Joy-Con includes four front-facing action buttons (Joy-Con R featuring Nintendo's signature ABXY buttons, and Joy-Con L featuring directional buttons), an analog stick which can be pressed down as a fifth button, a plus (+) or minus (-) button and two trigger buttons. Within the rail are two additional buttons (SL and SR buttons) which can act like left-and-right shoulder buttons when the Joy-Con is held horizontally.[74][29][75] Each Joy-Con contains an accelerometer and gyroscope for motion control support,[76] while Joy-Con R also contains an infrared depth sensor that can be used to identify objects and motion gestures.[76] Both Joy-Con contain a haptic feedback system known as "HD Rumble", which can generate fine tactile feedback.[77][78] Joy-Con R contains an NFC reader, allowing functionality with Nintendo's Amiibo line.[65]
+Joy-Con can be obtained in several colors as part of the Switch bundle or through added purchases. In addition to the slate gray that the rest of the unit offers, consumers can opt to get Joy-Con in neon red and blue colors. In mid-2017, Nintendo introduced neon yellow Joy-Con, launching alongside Arms [79] as well as neon green, and neon pink Joy-Con which launched alongside Splatoon 2.[80]
+Technical specifications[edit]
+The Switch uses a system-on-chip from the Tegra family of products, developed in partnership with Nvidia.[63][81] No specific details were revealed beyond that it is a "custom" Tegra chip "based on the same architecture as the world's top-performing GeForce gaming graphics cards" that are common in personal computers, and has a custom API known as "NVN", which is designed to "bring lightweight, fast gaming to the masses".[26][82] Takeda described the Nvidia chipset critical to bring similar performance for games as they have on personal computers, helping to achieve "high performance but low power consumption" for the Switch.[83] Prerelease reports, unconfirmed by either Nintendo or Nvidia, stated that the SoC would be an Nvidia Tegra X1 SoC with 4 ARM Cortex-A57 CPU cores and 4 ARM Cortex-A53 CPU cores along with 256 Maxwell based CUDA GPU cores.[84][85] This was later corroborated by an analysis on the console done by Tech Insights in March 2017.[86][87] The CPU cores are clocked at 1.020 GHz, as revealed by DigitalFoundry. The GPU cores vary between 768 MHz and 307.2 MHz depending upon whether the device is docked; however, they can be boosted to 921 MHz and 384 MHz, respectively.[88] A later iFixIt teardown of the final product confirmed 4GB of LPDDR4.[89]
+The Switch offers 802.11ac wireless connectivity and is compliant with 802.11 a/b/g/n/ac modes.[81] Up to eight Switch Consoles can be connected in a wireless ad hoc network for local multiplayer games, and multiple players can play on each of the connected Switches.[90][26][91] In the case of at least one game, Splatoon 2, ten Switches can connect in the ad hoc network, though only eight can play directly while the other two can watch as spectators.[92] The Switch uses Bluetooth 4.1 for wireless communication between the console and its controllers.[61][81] Users can purchase a third-party USB LAN adapter for wired connectivity when the Console is docked for TV mode.[81] Nintendo's own Wii LAN Adapter accessory is also compatible. [93]
+The Switch is primarily powered in portable mode by a non-removable 4310 mAh, 3.7 V Lithium-ion rechargeable battery.[67][94] The battery life is estimated to be between 2.5 and 6.5 hours, depending on the software being used. Nintendo gives the example of The Legend of Zelda: Breath of the Wild supporting approximately three hours of battery life.[63] The battery can be charged either while in the Dock, or through a standard USB-C connector on the Console.[64] The estimated recharge time while the unit is in sleep mode is about 3 hours.[69] Nintendo offers the means for replacing batteries through its customer support.[81] Each Joy-Con has its own non-removable 525 mAh, 3.7 V Lithium-ion battery separate from the Console, with an estimated twenty-hour lifespan.[61] These batteries are automatically charged if they are attached to the Console while it is charging itself. Additional accessories have other means to charge the Joy-Con.[95] While the basic Joy-Con Grip that ships with the Switch does not offer charging capabilities, a separate premium Joy-Con Grip includes a USB-C connector port that can be used to charge the Joy-Con batteries while they are connected to this Grip.[96]
+The Switch includes 32 GB of internal storage, and can be expanded up to 2 TB using a microSD, a microSDHC or a microSDXC card.[63][97][81] If the microSD card is used, the Switch will only store game save data on the internal memory, leaving data that can be re-acquired on the microSD card.[98] Save data will always be stored on the console, regardless if the source is a physical Game Card or a digital download copy. At launch, there was no way to transfer save files from the internal memory to the microSD card or another Switch console,[99] [100] though save game and profile transfers between Switch consoles were added in a system's 4.0.0 update in October 2017.[101] While microSD and microSDHC support was available at launch, microSDXC card support was later added to device's software via a system update.[69][81] The Switch does not support external storage units at launch, but Nintendo stated that they were looking into adding this feature in the future.[98]
+The Switch console contains a 3.5 mm headphone jack. The unit does not directly support Bluetooth wireless headphones, though they can be connected with third-party wireless adapters via the headphone jack.[102][103] A system update in October 2017 enabled support for wireless USB headphones when the receiver is connected to the USB port on the console.[104]
+Other controllers and accessories[edit]
+
+
+
+
+The optional and more conventional Pro Controller.
+
+
+Though not revealed in the October 2016 reveal, the Nintendo Switch supports a wide array of additional accessories, according to Kimishima. Kimishima suggested that the Switch is part of a large ecosystem of devices, though the Switch unit remains the core console element.[105] Takahashi suggested the possibility of other units besides the Joy-Con that could attach and/or connect to the Console to serve as alternate input devices and change how the Switch can be used.[11]
+A charging grip is available for the Joy-Con, which provides a means to attach a USB-C cable for power.[95] Nintendo plans to introduce in June 2017 a charging strap that allows players to charge the Joy-Con via embedded AA batteries.[79] Nintendo offers a Joy-Con Wheel, a small steering wheel-like unit that a Joy-Con can slot into, allowing it to be used for racing games like Mario Kart 8 Deluxe.[106] The Switch supports the wireless Pro Controller, which has a more traditional design reminiscent of the Wii Classic Controller Pro and Wii U Pro Controller.[66][107][108] As of Switch System Software 3.0.0 a setting can be turned on to use the controller in wired USB mode, however currently this will disable the NFC touchpoint. Standalone Docks are available, which include the power adapter and HDMI cable.[106] Third parties also support the Switch with additional accessories, such as carrying cases and screen protectors.[109] The 4.0.0 system update enabled support for GameCube controllers attached via USB with the Wii U GameCube adapter.[110]
+Tatsumi Kimishima stated that Nintendo was investigating the possibility of offering a virtual reality headset for Switch in the future, "if we are able to resolve the issues with playing comfortably for long hours." Nintendo did submit design patent applications for a virtual reality accessory similar in design to those intended for smartphones, in which the device would be inserted into an enclosure, and its screen viewed through lenses to achieve a stereoscopic effect.[111]
+Production[edit]
+The Switch is produced between Taiwan-based Foxconn and Japan-based Hosiden, with Foxconn accounting for the largest volume.[112] Nintendo did not plan to sell the unit below manufacturing cost, as they had done for both the 3DS and Wii U at their respective launches;[113] Nintendo affirmed that the Switch would be profitable from launch during its 2016 fiscal year earnings report, as the company saw the console as a key earnings driver for 2017 and beyond.[114] Fomalhaut Techno Solutions, a Japanese product teardown firm, estimated that the Switch cost $257 to make compared to its $299 MSRP, with the Console and Dock at $167 while each Joy-Con cost $45.[115] Kimishima said that they may be able to see further profitability on the Switch when they can achieve volume discounts on components once they reach a level of about 10 million Switch units.[116]
+Prior to launch, Nintendo anticipated shipping two million Nintendo Switch units by the end of the console's first month, and assured that its supply chain would be able to meet demand following the launch period to avoid the shortage situation with the NES Classic Edition in late 2016.[117][55][118] Kimishima anticipated that the Switch will have lifetime sales numbers similar to the Wii, which sold 101 million units by 2016.[57]
+Following the initial sales report numbers in April 2017, the Financial Times reported that the company was seeking to produce 18 million Switch units in its 2017 financial year as to avoid "customer tantrums" with poor supply levels, particularly near the 2017 holiday season and the release of Super Mario Odyssey on October 27, 2017.[119] Fils-Aimé said in September 2017 that their 2017 production target for the Switch could be hampered by bottlenecks in individual components.[120][121] DigiTimes reported in October 2017 that Nintendo had further shifted the production rate for the Switch up to 2 million per month, with plans to ship 20 million units by the end of the year and prepare for the console's launch in Taiwan and China by early 2018; the newspaper also stated that the production rate was a limitation of components and not by other factors of Nintendo's production process.[112]
+Software[edit]
+
+
+
+
+The main menu screen of the Switch console
+
+
+Main article: Nintendo Switch system software
+The Switch's user interface features tile-based access to games that are either present in the game card slot or stored within the unit's storage devices. It includes quick access buttons for a News feed from Nintendo, eShop access, and a photo album for screenshots captured during gameplay;[69] the 4.0 update to the software in October 2017 also enabled capturing and sharing video from select games.[101] A single Switch console supports up to eight user profiles, which each can be tied to a Nintendo Account user ID.[98] Profiles can be represented by either a pre-made avatar from an internal gallery, or using a Mii. The Mii creator was upgraded with increased color options for aspects such as hair styles; however, it is integrated into the system settings, rather than being an independent application.[122][98][123][124]
+Players discovered that the Switch's firmware included an Easter egg to allow players to play the NES Golf title via a built-in emulator. While Nintendo has not confirmed its presence, journalists and players believe this is a tribute to Nintendo's former president Satoru Iwata; Golf was programmed by Iwata, the game can only be accessed if the system clock is set to July 11, the day that Iwata died, and use the Joy-Con in a motion similar to how Iwata would present in his Nintendo Direct presentations. Some Japanese users referred to this as a omamori (charm) left by Iwata himself.[125]
+Nintendo continued its white hat security program that it had with the Nintendo 3DS. With help of third-party website HackerOne, Nintendo will award up to $20,000 to the first user to identify any vulnerability that impacts piracy, cheating, or potential sending of inappropriate content to younger users, the amount based on the severity of the security flaw.[126]
+Online services[edit]
+Nintendo Switch provides online functionality, including online multiplayer, downloading and purchasing games via regional Nintendo eShops, an online lobby service, and voice chat. Unlike previous Nintendo consoles, and in line with current Microsoft and Sony consoles, access to online multiplayer, lobby, and voice chat services require purchases of a paid subscription to the Nintendo Online Service program.[127][128] Some features of this online service, such as the voice chat, are enabled through a companion mobile application that was first released on July 19, 2017, just prior to Splatoon 2's launch.[12][129] Nintendo plans to provide other incentives to subscribers, including exclusive access to offers and Classic Games Selections, games from Nintendo's older consoles (similar to the Virtual Console) but including additional online support in some; initial titles will include the NES games Super Mario Bros. 3, Balloon Fight, and Dr. Mario.[130] Access to the Classic Games Selections will continue to be available to users as long as they have an active subscription.[131] This is a change from Nintendo's initial stance prior to the Switch's release, where they had suggested they would offer one classic game a month for a user to play with their subscription, with the option to buy to keep the game indefinitely.[132][133]
+The subscription service, initially set to launch late in 2017, will now launch in 2018; in the meantime, Nintendo offers a free "trial" of online multiplayer for Switch until the launch of the paid service.[134][135][130] Fils-Aimé explained that the delay in providing the subscription service was the "need to get our digital environment world class", recognizing that they needed to be able to justify the subscription costs to consumers by making sure that both the planned features and the entertainment service support were ready to go when it launched.[136] At launch, the online service is only available in select countries, but it is expected to extend to other countries after the Switch's launch.[137]
+Kimishima stated in interviews in January 2017 that the annual cost for the service in Japan would be between two and three thousand yen (between $17–27 USD); media outlets noted that should this pricing be similar in other regions, it would be approximately half the annual cost of the subscription services on PlayStation and Xbox consoles, discounting the fact that the two services include features not contained within the Switch online services.[138][139] Kimishima stated that this price point range was a subject of importance in designing the Switch's online services, and that regardless of what competitors were doing, "it's a matter of getting our content to the consumer at a price point that will make them happy, and then we're willing to look at what else we can do going forward."[12] Price details were released in June 2017, with a 1-month subscription costing $3.99, a 3-month subscription costing $7.99, or a year costing $19.99.[130]
+Nintendo Switch offers integration with third-party social networking services to provide social and sharing features. Unlike the Nintendo 3DS and Wii U, Nintendo does not plan to offer first-party social networking services, such as Miiverse or StreetPass, the latter owing to Nintendo's promotion of Switch as primarily being a home console.[140] Players can register friends through Friend Codes as with previous Nintendo systems, searching for friends in the local network, through past multiplayer interactions, or via friends already registered on Nintendo mobile apps such as Miitomo and Super Mario Run linked to the corresponding Nintendo Account profile.[141] Nintendo said it plans to provide other methods for registering friends, including through third-party social media and via Nintendo Network IDs.[142] The Switch has no native support for Nintendo Network IDs, but users can link their Nintendo Network ID credentials on a Switch to a Nintendo Account profile, allowing them to link the system to their account, and accessing benefits such as shared eShop balances between the Switch and the Nintendo 3DS and/or Wii U.[143]
+Switch supports a companion mobile app called Nintendo Switch Parental Controls, providing a suite of parental control features.[127][144]
+Media support[edit]
+The Switch did not initially launch with many multimedia-oriented features, such as a web browser or support for video streaming services.[145] Fils-Aimé said that because the Switch is geared as a gaming console that is far different from what their competitors offer, they had focused on achieving that goal first and foremost, and did not see media support as a differentiator from their competitors.[146] Nintendo did not rule out providing a full web browser or apps for services in the future,[147][98][12] and Fils-Aimé said that they are in discussions with providers like Netflix, Hulu, and Amazon for such support.[146] On July 13, 2017, an app for Niconico, a popular Japanese video service, launched for Switch in Japan as its first third-party media app.[148]
+Despite the lack of an end-user web browser, a NetFront-based infrastructure is integrated into the Switch's UI, which allows the system menu to support several browser-like functions, such as authenticating for Wi-Fi hotspots.[149] This lightweight browser was found to use a six-month-old version of WebKit containing a set of vulnerabilities collectively known as Trident that has the potential to allow the Switch to be hijacked by code execution in the browser.[150]
+Games[edit]
+Distribution[edit]
+
+
+
+
+The Nintendo Switch's game cartridge.
+
+
+Games for the Switch can be obtained through either retail channels or digitally through the Nintendo eShop. Games distributed at retail are stored on proprietary cartridges, similar in design to the game cards used for Nintendo DS and 3DS games, albeit smaller and thinner than the DS/3DS cartridges.[151] Because of their small size, Nintendo coats each cartridge with denatonium benzoate, a non-toxic bitterant used to prevent children from ingesting them.[152] Nintendo offered a suggested retail price for Switch games at the console's launch of $60, equivalent to the price for new games on either the Xbox One and PlayStation 4 console.[153] Nintendo otherwise allows publishers to set the price for a game, only requiring the list price be the same for physical and digital releases, if a physical release is made. This has caused some games also available on other consoles to be priced higher on the Switch due to the costs of manufacturing the game card for the Switch version. Online media outlets colloquially refer to this price hike as the "Switch tax".[154][155] Some physical games may still require content to be installed to internal storage, with some games using a significant portion of the internal memory if a microSD card is not available.[156] Other physical games which have a large amount of content may require a microSD card to be present in the Switch, such as NBA 2K18; such games are clearly marked on the cover to show these requirements.[157]
+Unlike previous Nintendo home consoles, the Switch is region-free, allowing players to use cartridges or downloaded content from any part of the world, though Nintendo recommends using the appropriate regional eShop for digital purposes for obtaining the best post-purchase support if needed.[68][98] Further, eShop purchases, while still tied to the Nintendo Account, are not tied to the specific Switch console, as was the case for previous Nintendo hardware. Once the user re-registers their account to a Switch, they have access to download all previous purchases; however, a user can only have their account registered on one console at a time, and downloaded software tied to an account cannot be used if that account is not registered to the device.[143] The Switch does not support optical discs and is not backwards compatible with the 3DS and Wii U game media.[158] The Switch is not backwards compatible with other digital titles from previous consoles.[98] The console also did not launch with the Virtual Console, which provided digital versions of physically released games from past Nintendo consoles, but the company said this feature may be added later.[159] Kimishima said that the Switch is powerful enough to emulate titles from previous Nintendo consoles, but currently does not support controllers or controller emulation for these titles.[12]
+Third-party support[edit]
+One of the generally perceived failures of the Wii U was a lack of support from third-party developers, leading to a weak library of games.[160] Nintendo was more aggressive in trying to bring on third-party developers early in the Switch's development, to ensure a stronger lineup of games. Takahashi and Koizumi reached out to many of the third-parties directly to help gain their support early on.[11] Electronic Arts' executive Patrick Söderlund said that Nintendo had taken a different track with attracting third-party developers to the Switch and have engaged Electronic Arts and other major developers throughout the development of the Switch, listening to their input, to help make the Switch more successful.[161]
+Nintendo also began gaining support of independent video game developers in the middle of 2016 to provide assistance to help them bring games to the Switch. Nintendo sees games such as Snipperclips as a model of their target for indie games, in which they worked to help provide Switch implementation support and software tools to these parties early in the console's lifecycle, according to Takahashi and Koizumi.[11] Some, like Yacht Club Games, who have ported Shovel Knight to the Switch, noted that some of the major innovations in the Switch, such as the Joy-Con, were not revealed to them until just prior to the January 2017 announcement.[162] Nintendo of America reached out to many independent developers and publishers, including Chucklefish, Team17, and Devolver Digital, to gain titles for the platform and make the process of publishing easier. Nintendo still curates which titles they allow on the system, using the company's past portfolio for evaluation, and still carefully time releases to keep a steady stream of new content. However, once a game is greenlit, pushing out patches and updates can be done rapidly and at no further cost to the developer.[163][164] Nintendo also offers the Switch's dev kit at 50,000 yen, or about $450, far under the cost of a comparable dev kit for other consoles, making it more amenable for smaller developers to afford and build for the unit.[165] Nintendo offers several of these indie games as "Nindies" through the eShop, with at least sixty expected to be released through 2017.[166][167] While many independent developers have praised Nintendo for better support for the Switch, others, speaking anonymously through Nintendo Life, noted that Nintendo seemed to have a "walled garden" approach with independent developers, a remnant from the WiiWare program that allowed a great deal of shovelware to be pushed onto it. These anonymous developers found that Nintendo was either eschewing some developers completely, or requiring them to have a well-known publishing partner or an inside person within Nintendo to be able to gain the rights to publish for the Switch.[168][169]
+During its official unveiling in October 2016, Nintendo deliberately opted not to provide a list of games for the system, as they "want people to touch the device in January [2017] and experience the software for themselves", according to Kimishima.[105] Instead, Nintendo announced some of the partners that had committed to supporting the Switch; contrasting Nintendo's struggles to gain third-party support on-launch for previous platforms, the company initially listed 48 third-party publishers, studios, and middleware developers.[26] Among these partners, Nintendo listed major publishers such as Activision, Bethesda, Electronic Arts, Sega, Square Enix, Take-Two, and Ubisoft.[26][170][171]
+In the past, Nintendo had previously relied more on providing its own internally developed tools and libraries that third-party developers would use to develop games for earlier systems. With the Switch, the company went a different route. According to Takahashi, "we have been aiming to realize an environment in which a variety of different third-party developers are able to easily develop compatible software", taking advantage of the Nvidia chipset's support for many standard libraries that allows for ease of transition from other platforms to the Switch.[172] Unity Technologies, Epic Games, and the Khronos Group pledged support to help developers bring games to the Switch using their game engines and middleware, Unity, Unreal Engine 4, and the Vulkan and OpenGL graphical APIs, respectively;[173][174][175] for instance, the Unreal Engine toolkit was updated in February 2017 to provide beta testing for native support for Switch games, with full support added by May 2017.[176][177] Miyamoto said that Nintendo's own developers have "mastered" engines like Unreal, so that while it would be unlikely that Nintendo would release a first-party title using such software, they can help support developers using these tools on the Switch.[172] Several indie developers who have previously worked on Nintendo's consoles said that that the Switch was "the least demanding Nintendo console" they have developed for.[178]
+Library[edit]
+Main article: List of Nintendo Switch games
+At the January 2017 press event, Nintendo said that there were at least 80 third-party titles in development for the system from over 50 developers/publishers, and by Nintendo's fiscal report to investors on January 31, 2017, Nintendo had confirmed over 100 titles from over 70 developers/publishers.[118] Prior to the console's official unveiling, Sega, Square Enix, and Ubisoft had already confirmed specific third-party titles in development for Switch, including Just Dance 2017,[179] Sonic Forces,[180] Dragon Quest X,[181] and Dragon Quest XI.[182] Various indie developers also announced or considered game titles for the Switch.[183] The Legend of Zelda: Breath of the Wild, originally announced as a Wii U exclusive, was released for the Switch as a launch title.[21][184][185] The console's reveal trailer showcased footage from new titles in Nintendo franchises, including Super Mario Odyssey, Mario Kart 8 Deluxe, and Splatoon 2, as well as footage from NBA 2K18 and The Elder Scrolls V: Skyrim.[186] Although Nintendo and third-parties stated at that time that these were not necessarily representative of Switch titles,[187][188][189] all five titles were confirmed as Switch releases during the January 2017 press events.[64]
+The Switch did not launch with any bundled games, nor had any pre-loaded games or game demos; Fils-Aimé stated that once they had decided on the price point and evaluated the forthcoming game lineup, they opted to allow consumers to choose which games to get rather than include one in the bundle and increase its price.[190][191] At least ten games were shipped or digitally available alongside the Switch in North America during launch day, including Nintendo's first-party titles The Legend of Zelda: Breath of the Wild and 1-2-Switch. Six first-party Nintendo games, over a dozen third-party games, and over 60 indie games are scheduled for release during 2017.[64][192][193][194] Fils-Aimé said that Nintendo plans a "steady cadence of content" for the Switch after launch, avoiding the perceived situation with gaps between major releases for Wii U software.[195] Kimishima said that Nintendo scheduled its first-party releases "to continue to provide new titles regularly without long gaps", as this "encourages consumers to continue actively playing the system, maintains buzz, and spurs continued sales momentum for Nintendo Switch."[118] Journalists noted that Nintendo appeared to be pledged to this approach following their schedule of planned released for first-party games for the Switch as announced during the Electronic Entertainment Expo 2017, with a new title roughly every month into early 2018.[38]
+Reception[edit]
+Pre-release[edit]
+Market analysts had a mixed response to the October 2016 announcement of the Nintendo Switch.[27][28] Following the financially under-performing Wii U, analysts had expected that Nintendo would recognize their vulnerable position in the console market when developing their next console, believing that the company would find a means to draw back the core gamer market. Instead, initial promotion of the Switch appeared to appeal to an audience that fell between the core gamer and casual gamer markets, the latter being mobile game players who would want a more engaging experience but would not be willing to play for hours at a time, according to The New York Times.[27] Analysts were unsure if such a market existed in large enough numbers to justify the Switch.[27] Other concerns about the Switch's announcement were related to yet-to-be-confirmed details that could make or break the system, such as its retail price, whether the unit includes a touchscreen, the unit's battery life, and the type of games that development partners would bring to the console.[196]
+Others saw more positive traits in the Switch. Stock research analyst John Taylor expressed the opinion that Nintendo "checked off an awful lot of boxes with [the Switch]".[10] Taylor also approved of the company's decision to introduce the console prior to the holiday season, when Microsoft and Sony would attempt to attract casual gamers to their consoles.[10] Rob Fahey, writing for GamesIndustry.biz, noted that within Japan, many young adults do not own a high-definition television, which had affected console sales such as the PlayStation 4, and the Switch would be an attractive product for this demographic.[197] Sam Byford for The Verge also noted that physical space is a premium in Japanese homes, and home console units there have failed to sell as well as portable game consoles, so the compact Switch unit could help revitalize the sluggish Japanese video game economy.[198]
+Further debate among analysts arose following the January 2017 presentation of the unit's price and specifications. Several noted that the Switch's price point of $299.99 was higher than the anticipated $250; these analysts observed that this is about the same cost as the current Xbox One and PlayStation 4 consoles, but the Switch does not appear to be as powerful as these units.[199][200] Some pointed to the small numbers of launch titles as a concern, with the success of the Switch being tied to the critical reception to 1-2-Switch, a key launch title aimed to showcase the Joy-Con technology.[201] Other analysts were more optimistic, stating that the higher price and online subscription cost help to distinguish the Switch as a more robust system compared to Nintendo's previous consoles, and would likely sell better than the Wii U, with The Legend of Zelda: Breath of the Wild being a key sales driver.[200] Some added that the console fills an appropriate gap in hardware for those seeking more complex gameplay that is not offered in tablet and mobile gaming but don't have the need to purchase a powerful "boxy" console.[202] Most analysts agreed that the success of the Switch depends on Nintendo's support and avoiding mistakes the company had made in marketing and promoting the Wii U.[202]
+Investors in Nintendo have been more cautious about the Switch, leading to a significant drop in its stock price, which had otherwise been trading at their highest values over the previous five years.[203] The company's stock price, which rose by 4% on the day before the Switch's October 2016 announcement in anticipation,[196] fell by 7% the next day.[27] Analysts attribute the drop to the lack of surprise of the announcement given the prior year of product teases and information, giving investors no catalyst to invest further.[204] Following the technical presentation of the Switch in January 2017, Nintendo's stock price fell by more than 5% the following day, with one analyst stating that the markets were concerned if the Switch would attract new gamers outside of the core Nintendo fan group.[205] Nintendo's stock value continued to drop, and by early February 2017, had fallen below the September 2016 price. Fahey said that investors are wary of the new approach that Nintendo had taken with the Switch, along with its new mobile gaming initiative, representing significant and difficult-to-assess risks to the company's prospects in the future.[203]
+Game and hardware developers were more positive towards the Switch, seeing the system as "a more unifying experience between their handheld and console divisions", but expressed concern on unanswered hardware specifications, and how Nintendo would market the unit to draw in developers.[183] About half of 4,500 developers interviewed in a January 2017 survey believed that the Switch would outsell the Wii U.[206] Ubisoft managing director Xavier Poix noted that unlike the Wii U, Nintendo had demonstrated a clear concept of enabling continuity, stating that "The way it changes the way you play doesn't come necessarily with the controllers, because they were here with the Wii as well ... but in the way it is mobile."[207] Phil Spencer, head of Microsoft's Xbox division, said he was impressed with Nintendo's ability to "state a bold vision and build a product that delivers on that vision".[208]
+Hideo Kojima compared the notion of the Switch to his idea of "transfarring" that he presented in 2011, allowing players to take a game from a home platform to a portable one, which became the basis of Sony's Cross-Buy program. He said that the Switch was "an extension of that idea. The fact you can play something at home and take it outside, this is the gamer's dream. The Switch is an evolution of that."[209] Capcom stated that while they are committed to releasing titles for the Switch, they "do feel that there are differences in the desired direction and the play-style of the Nintendo Switch and those of the PlayStation 4 or Xbox One" and may not be releasing cross-platform games for the new console.[210] Bethesda's Todd Howard stated, "I think Nintendo is the only company that could pull something like this off," commenting on the Nintendo Switch's design and functionality. Bethesda is releasing The Elder Scrolls V: Skyrim on the Switch, and Howard has stated that Nintendo reached out to Bethesda for possible support of the console.[211]
+The October 2016 trailer became Nintendo of America's most-viewed video on YouTube within 24 hours, and was the top trending video on YouTube for about a day.[212] Engadget editors were generally impressed with the Switch on reveal, seeing it as a means to bridge home consoles with portable devices, experiments that Nintendo had tried before with inter-game connectivity between the 3DS and Wii U. The editors potentially see the Switch as a unified console and handheld device, aimed to be a console gamer's second device and where the player does not need the time investment to sit down and play most console games. One editor did express concerns on the hardware's durability given its modular nature.[213]
+Analyst firm DFC Intelligence estimated that while the Switch might have a slow commercial start due to existing consumer trepidation toward Nintendo and Nintendo's lack of stock, it would overcome this by the end of 2017 and sales would reach around 40 million units by 2020.[214] Analysis firm SuperData also predicted that the Switch would have a slow start due to its relatively high price, but would eventually sell about 5 million units worldwide by the end of 2017.[215] Retailer GameStop also stated it believed the Switch would be transformative in the market, as CEO Paul Reines stated that the company believes the Switch could be another "game-changer" that could "expand the audience for gaming".[216] Most major retailers in the United States reported that they had sold out of their pre-order allotment of the Switch within a week of the January 2017 media event.[217] According to Media Create, nearly 80% of the total launch stock of the Switch for Japan was pre-ordered by consumers by the end of January 2017.[218] Shortly before release, Nintendo's Kimishima stated that "we are seeing that launch day preorders have nearly reached the maximum available".[12]
+Release[edit]
+At its release, the Switch was praised by reviewers for having a lot of potential, but they were underwhelmed by the limited number of titles available at launch that did not show the full extent of the console's abilities. Reviewers also noted that the initial operating software and features were limited and included software bugs that, while likely to be fixed in time, marred the experience of the system.[219] Even with the day-one update, there were numerous reports of hardware problems, in particular the Bluetooth connectivity of the Switch Console with the Joy-Con L controller, and ease with which the Console screen could be scratched.[220] About a week after release, Fils-Aimé said the company is in "fact-finding mode" to try to diagnose these issues.[221] In late March, Nintendo reported that the Joy-Con L desync issue was a "manufacturing variation" on a small number of the units, which could be easily fixed; as noted by CNet's Sean Hollister, Nintendo repaired affected controllers by placing a bit of foam near the antenna within the unit to better shield it. Going forward, Nintendo said they do not anticipate any other problems with connectivity issues.[222][223] Many users also reported issues with defective pixels on the LCD screen of the Console, which Nintendo has stated "are normal and should not be considered a defect".[224] Other companies in the video game industry, such as Sony, Microsoft, Sega, Bethesda and Ubisoft, have congratulated Nintendo on the Switch.[225]
+Sales[edit]
+
+
+
+
+First-year sales of the Switch, Wii U, and PlayStation 4 in Japan. (Click to enlarge)
+
+
+A week after the launch, Nintendo reported that the Switch was the fastest-selling console in the company's history, with strong sales in North America and Europe, despite initial concerns about hardware issues from reviewers.[226][227] Total sales in the United States during March 2017 exceeded 906,000 units, and was matched by sales of Breath of the Wild for the Switch, demonstrating a high attach rate to the console.[228] In Japan, the first-weekend sales exceeded 330,000 units, which while not surpassing the Wii or 3DS releases, was on par with the launch weekend of the PlayStation 4 in the country and exceeded Wii U sales on its initial release.[229][230] Media Create estimated that more than 500,000 Switch units were sold in Japan within its first month, beating out the PlayStation 4 to this figure.[231] In the UK, the Switch had sold roughly 80,000 units during its opening weekend, doubling the Wii U's initial weekend sales, though falling short of the 3DS release.[232] In Spain, the Nintendo Switch became the most successful video game console launch in the country's history, selling around 45,000 units in three days.[233] The Switch also became France's biggest console launch after selling over 105,000 units in the country on the opening weekend; the previous record holder, the Wii, sold 95,000 units in three days.[234][235] In October 2017, France has sold nearly 400,000 units since launch.[236]
+In Nintendo's year-end report for its 2016 fiscal year (ended March 31, 2017), the company stated that they had sold 2.74 million Switch units worldwide.[237] Distribution of shipments included 1.2 million units in North and South America, 600,000 in Japan, and 940,000 in all other regions including Europe and Australia.[238] To meet unexpected demand during March, Nintendo used air freight to ship Switch units, approximately costing an additional $45 per console, rather than the less-costly overseas shipment.[239] Retailer GameStop reported that initial sales of the Switch were "phenomenal" and on track to surpass the Wii U based on their historical sales data, with merchandising director Eric Bright saying the Switch has had "one of the highest attach rates of software and accessories to a device that we've seen in a long time".[240] Due to the strong sales, Nintendo has expanded its production capacity for the Switch,[241] with anticipation of selling at least 10 million Switch consoles during the 2017 fiscal year.[237] Kimishima stated that having a Switch user base of 10 million "will give publishers and the rest of our business partners a sense that the future of Nintendo Switch is more promising" and spur further games development for the platform.[242] Kimishima said that a key goal in their production ramp up will be to make sure they have enough Switch inventory near the end of 2017 for holiday sales, as to avoid the issue with Wii shortages that occurred during its first holiday-season period, while balancing the near-term high demand.[116] According to Kimishima, Nintendo now believes that if they can realize 10 million in Switch sales in 2017, they expect that the Switch will have lifetime sales that are comparable to the Wii, which had sold over 100 million units in its lifetime.[242][116]
+Physical sales for Switch games were at 5.46 million worldwide in its first month, with 2.76 million copies of Breath of the Wild for the Switch making up nearly half of those sales.[243] Of Breath of the Wild's nearly 1-to-1 sales with the Switch console, Nintendo's Kimishima said, "This high of an attach rate is more or less unprecedented".[244] Nintendo anticipated it will ship 35 million games for the Switch during its next fiscal year.[237]
+During April 2017, the Switch remained the best-selling console in the United States according to NPD Data, with more than 280,000 units sold, with Mario Kart 8 Deluxe selling about 460,000 physical units and a total of 550,000 units between digital and physical sales.[245]
+Retailer GameStop reported significant growth in hardware sales in its first quarter of 2017 due primarily to the Switch,[246] while Best Buy saw an unexpected increase in their hardware sales in its first quarter of 2017 buoyed by the popularity of the Switch.[247] Console sales in Japan, which had been languishing due to the strength of the mobile game market, saw its first annual growth of 14.8% in 2017 due to the release of the Switch.[248]
+By July 26, 2017, Nintendo announced that it has sold 4.7 million Switch units worldwide, alongside 13.6 million sales of software for the console, led by Breath of the Wild, Mario Kart 8 Deluxe and Arms with total sales of 3.92, 3.54, and 1.18 million units, respectively.[249]
+By September 2017, Nintendo had sold over 2 million Switch units in United States, and its hardware continued to dominate the NPD charts.[250]
+Financial impact[edit]
+Nintendo's business performance, which had been struggling for several years prior to the Switch's release, soared on its release. By May 23, 2017, the success of the Switch's launch raised Nintendo's stock price to its highest levels in seven years, and an increase in price of over 100% from the previous year. However, the price still trailed Nintendo's peak price by about half, back in 2007 when it had just released the Wii.[251] Nintendo's stock was further boosted a few days later to meet its eight-year high following Capcom's announcement of plans to release the popular Monster Hunter XX for the Switch.[252]
+In September 2017, Nintendo announced a partnership with Tencent, a leading publisher for games in China, to bring their title Honor of Kings (also known as King of Glory) to the Switch, to be titled Arena of Valor. The game has an estimated 200 million players, most in China, and analysts anticipated that Nintendo will be releasing the Switch in China by 2019 as part of this deal. As a result, Nintendo's stock price rose overnight on the news by 7%, reaching a nine-year high.[253][254] Nintendo's stock reached its ten-year high shortly after the October 2017 expansion of Switch production to 2 million units per month and that it would likely start selling the unit in China sooner than anticipated.[255]
+Retail configurations[edit]
+At launch, the Switch was sold as a bundle with a MSRP of ¥29,980 (Japan), $299.99 (United States), £279.99 (United Kingdom), and AU$469.95 (Australia); with standardized pricing for the European market varying.[199][64][256] The bundle includes the Switch Console, the Dock, two Joy-Con (left and right), two Joy-Con Straps, the Grip, a power adapter and an HDMI cable.[106] Fils-Aimé said that the company had been aiming to keep the bundle's price point at $300 in the United States, fearing that including any additional hardware or games would raise the price to a level that would discourage consumers and harm sales.[190]
+The first Switch pack-in bundle included Splatoon 2 alongside the Switch console for release in the United Kingdom and Japan; additionally, a separate bundle that included neon green and pink Joy-Con (matching the color schemes from Splatoon 2) was offered in Japan.[257] In August 2017, it was announced that this bundle would be released in the U.S. as a Walmart exclusive on September 8, 2017.[258] The Monster Hunter bundle, offered alongside the Monster Hunter XX Switch release in August 2017 for Japan, includes Monster Hunter imagery emblazed on the Switch Dock and Console.[259]
+Legal challenges[edit]
+Gamevice filed a lawsuit against Nintendo alleging that the design of the Switch conflicts with its patent on the design for the Wikipad, an Android-based gaming device that also features a tablet with a detachable controller. Gamevice seeks a ban on Switch sales and damages should it win the suit.[260]
+Notes[edit]
+
+
+
+^ a b The Nintendo Switch has not yet been released in India, China, and other regions.[1]
+^ In Japanese: Nintendō Suitchi (ニンテンドースイッチ)
+
+
+
+References[edit]
+
+
+^ a b "Want to Buy the Nintendo Switch In India? You Need to Read This First". Gadgets 360. January 20, 2017. Retrieved March 4, 2017. 
+^ Wingfield, Nick (January 18, 2014). "Resisting Mobile Hurts Nintendo's Bottom Line". New York Times. Retrieved December 9, 2016. 
+^ Thomas, Lucas M. (September 13, 2011). "Nintendo + Smartphones? Iwata Says "Absolutely Not"". IGN. Ziff Davis. Retrieved September 3, 2015. 
+^ a b c d e Nakamura, Yuji; Amano, Takashi (October 28, 2016). "Nintendo's Big Switch: Q&A With President Tatsumi Kimishima". Bloomberg. Retrieved December 9, 2016. 
+^ Peckham, Matt (March 18, 2015). "Exclusive: Nintendo CEO Reveals Plans for Smartphones". Time. Time Inc. Retrieved July 13, 2015. 
+^ Makuch, Eddie (March 18, 2015). "Players More Important Than Money, Nintendo Pres. Says About Smartphone Deal". GameSpot. CBS Interactive. Retrieved July 21, 2015. 
+^ Arif, Shabana (May 16, 2016). "Nintendo NX "is neither the successor to the Wii U nor to the 3DS"". VG247. Retrieved May 17, 2016. 
+^ Westaway, Luke. "Nintendo will make games for phones, new 'NX' system". CNET. Retrieved March 17, 2015. 
+^ Wright, James (October 26, 2016). "Nintendo Switch 'might struggle to keep pace with Xbox One, PS4'". Daily Star. Retrieved January 17, 2017. 
+^ a b c Wingfield, Nick (October 20, 2016). "Nintendo Switch Reaches for a New Market With Home-and-Mobile Console". The New York Times. Seattle. Retrieved October 23, 2016. 
+^ a b c d e f Peckham, Matt (February 6, 2017). "The 8 Most Interesting Things Nintendo Told Us About Switch". Time. Retrieved February 6, 2017. 
+^ a b c d e f g Peckham, Matt (February 7, 2017). "19 Things Nintendo's President Told Us About Switch and More". Time. Retrieved February 7, 2017. 
+^ a b Casey (December 7, 2016). "Nintendo Explains How The Switch Got Its Name And What Their Goal Was With Its Reveal Trailer". Siliconera. Retrieved December 7, 2016. 
+^ a b Davidson, John (January 12, 2017). "Nintendo's Shigeru Miyamoto Didn't Lead Switch Development". Glixel. Retrieved January 12, 2017. 
+^ a b Peckham, Matt (February 13, 2017). "10 Things Nintendo's Shigeru Miyamoto Told Us About Switch and More". Time. Retrieved February 13, 2017. 
+^ Ohannessian, Kevin (January 20, 2017). "With Nintendo's Switch Game Console, New Ideas Create New Experiences". Fast Company. Retrieved January 20, 2017. 
+^ Reeves, Ben (February 26, 2017). "The Switch's Architect On Why Nintendo's Consoles Are Different". Game Informer. Retrieved March 1, 2017. 
+^ Yin-Poole, Wesley (March 17, 2015), "Nintendo NX is "new hardware with a brand new concept"", Eurogamer 
+^ Martens, Todd (April 27, 2016). "Nintendo dates its successor to the Wii U, the NX". Los Angeles Times. Tronc. Retrieved April 27, 2016. 
+^ Reilly, Luke (April 27, 2016). "Nintendo NX Will Launch In March 2017". IGN.com. Ziff Davis. Retrieved April 27, 2016. 
+^ a b Humphreys, Matthew (April 27, 2016). "Nintendo NX launches March 2017, won't simply replace Wii U and 3DS". Geek.com. Retrieved May 3, 2016. 
+^ Frank, Allegra (June 29, 2016). "Report: Nintendo's fear of imitators kept NX out of E3". Polygon. Retrieved June 30, 2016. 
+^ Philips, Tom (July 26, 2016). "Nintendo NX is a portable console with detachable controllers". Eurogamer. Retrieved July 26, 2016. 
+^ Leadbetter, Richard (July 26, 2016). "Nintendo NX is powered by Nvidia Tegra technology". Eurogamer. Retrieved July 26, 2016. 
+^ Te, Zorine (August 16, 2016). "Nintendo's NX Controller Could Have Detachable D-Pad, According To Updated Patents". GameSpot. Retrieved October 20, 2016. 
+^ a b c d e f "'Switch' is Nintendo's next game console". Engadget. AOL Inc. Retrieved October 20, 2016. 
+^ a b c d e Soble, Jonathan (October 21, 2016). "Nintendo Switch Console Is Met With Skepticism From Investors". The New York Times. Tokyo. ISSN 0362-4331. Retrieved October 22, 2016. 
+^ a b Mochizuki, Takashi (October 21, 2016). "Nintendo's New Switch Console Fails to Turn On Investors". The Wall Street Journal. ISSN 0099-9660. Retrieved October 22, 2016. 
+^ a b Markovech, Sam (December 8, 2016). "Miyamoto lands on late-night TV with Nintendo Switch reveal—and guitar riffs". Ars Technica. Retrieved December 8, 2016. 
+^ Makuch, Eddie (October 26, 2016). "More Nintendo Switch News Coming in January 2017". GameSpot. Retrieved October 26, 2016. 
+^ "Nintendo reveals plans for Nintendo Switch presentation". Nintendo. October 26, 2016. Retrieved October 27, 2016. 
+^ Nunneley, Stephany. "Switch reveal will feature English voiceover, "in-depth" look at games coming via Treehouse Live". VG247. Retrieved January 5, 2017. 
+^ Preci, Augusto Finocchiaro (July 24, 2017). "Nintendo Switch en Argentina: ¡Precio y fecha de lanzamiento oficial confirmados!". Cultura Geek (in Spanish). Retrieved September 21, 2017. 
+^ "Switch and Play 게임 생활을 보다 액티브하게! 한국닌텐도, 「Nintendo Switch™」 12월 1일 국내 정식 발매 결정". Nintendo of Korea official press release (in Korean). September 20, 2017. Retrieved September 21, 2017. 
+^ "Switch and Play 讓遊戲生活更有趣味 「Nintendo Switch」 2017年12月1日、NTD9,780(含稅) 在台灣發售". Nintendo (Hong Kong) Ltd. official press release (in Traditional Chinese). September 20, 2017. Retrieved September 21, 2017. CS1 maint: Unrecognized language (link)
+^ Falcão, Pedro (May 25, 2017). "Jogos de Nintendo Switch e 3DS serão distribuídos no Brasil". Vice (in Portuguese). Retrieved September 21, 2017. 
+^ a b Baig, Edward (January 14, 2017). "Nintendo's Reggie Fils-Aime: Why Switch is different from Wii U". USA Today. Retrieved January 18, 2017. 
+^ a b Webster, Andrew (June 13, 2017). "How Nintendo is avoiding the mistakes of the Wii U with Switch". The Verge. Retrieved June 14, 2017. 
+^ "Nintendo believes Wii U messaging issues corrected". GameSpot. Retrieved December 23, 2014. 
+^ a b c d Peckham, Matt (February 1, 2017). "Watch Nintendo's First-Ever Super Bowl Commercial". Time. Retrieved February 1, 2017. 
+^ a b Semeraro, Eleanor (May 1, 2017). "Nintendo 'Switches' up the console ad-spending charts". Venture Beat. Retrieved May 3, 2017. 
+^ Webster, Andrew (February 1, 2017). "Nintendo's Super Bowl Switch commercial shows the many ways you can play Zelda". The Verge. Retrieved February 1, 2017. 
+^ Molina, Brett. "Nintendo devotes its first-ever Super Bowl ad to Switch". USA Today. Retrieved February 1, 2017. 
+^ Frank, Allegra (February 1, 2017). "Nintendo's first Super Bowl ad is all about the Switch". Polygon. Vox Media. Retrieved February 1, 2017. 
+^ Shark, Chelsea (November 28, 2016). "Nintendo holding Switch hands-on event in New York Jan. 13". Polygon. Retrieved November 28, 2016. 
+^ "Nintendo also hosting a Switch press event in Paris on January 13 - Nintendo Everything". November 30, 2016. Retrieved December 30, 2016. 
+^ Sato (December 28, 2016). "The Nintendo Switch Hands-On Event In Japan Will Last Seven Hours On Both Days". Siliconera. Retrieved December 28, 2016. 
+^ Skrebels, Joe (December 14, 2016). "Select Fans Invited to See Nintendo Switch Early". IGN. Retrieved December 14, 2016. 
+^ Nunneley, Stephany (February 3, 2017). "Nintendo Switch hands on events will take place in three UK cities starting next weekend". VG247. Retrieved February 3, 2017. 
+^ Rawmeatcowboy. "Nintendo NL Offering A Chance To Win Invites To A Switch Hands-On Event In February". Go Nintendo. Retrieved January 28, 2017. 
+^ Sarkar, Samit (January 23, 2017). "Get your hands on the Nintendo Switch at PAX South". Polygon. Retrieved January 23, 2017. 
+^ Makuch, Eddie (February 21, 2017). "Nintendo Switch: John Cena To Help Promote The Console, Here's How". GameSpot. Retrieved February 21, 2017. 
+^ Carden, Dennis (December 14, 2016). "You'll be able to try out the Nintendo Switch at RTX Sydney in February". Destructoid. Retrieved December 15, 2016. 
+^ Grant, Christopher (February 21, 2017). "Nintendo tag teams with John Cena for living room-inspired Switch demos". Polygon. Retrieved February 24, 2017. 
+^ a b c Kohler, Chris (January 13, 2017). "Nintendo's Boss Promises the Switch Won't Have the NES Classic's Supply Issues". Wired. Retrieved January 16, 2017. 
+^ Crecente, Brian (October 20, 2016). "Nintendo: Switch is a home gaming system 'first and foremost'". Polygon. Retrieved October 20, 2016. 
+^ a b Kerr, Chris (February 2, 2017). "Nintendo president expects Switch sales to match the Wii". Gamasutra. Retrieved February 2, 2017. 
+^ Carter, Chris (January 31, 2017). "Wii U production is dead in Japan, long live the Wii U". Destructoid. Retrieved January 31, 2017. 
+^ Ashcraft, Brian (January 31, 2017). "Wii U Production Has Officially Ended For Japan [Update]". Kotaku. Retrieved January 31, 2017. 
+^ Orland, Kyle (October 21, 2016). "One day later, additional Nintendo Switch details dribble out". Ars Technica. Condé Nast. Retrieved October 21, 2016. 
+^ a b c d e f g Sarkar, Samit (January 13, 2017). "Nintendo Switch has 32 GB storage, 720p touchscreen". Polygon. Retrieved January 23, 2017. 
+^ Dornbrush, Jonathan (January 13, 2017). "Nintendo Switch Touchscreen Technology Powered By Immersion Corporation". IGN. Retrieved January 13, 2017. 
+^ a b c d Craddock, David (January 13, 2017). "Nintendo Switch has a 720p screen, 32 GB of storage, and expandable storage via microSDXC cards". Shacknews. Retrieved January 13, 2017. 
+^ a b c d e f g Reynolds, Matthew (January 13, 2017). "Nintendo Switch — games list confirmed so far, launch titles and everything we know about the hardware". Eurogamer. Retrieved January 13, 2017. 
+^ a b Rad, Chloi (October 20, 2016). "Nintendo Confirms Amiibo Support for Nintendo Switch, Clarifies Additional Features". IGN. Retrieved October 20, 2016. 
+^ a b "This is what the Nintendo Switch looks like". Polygon. Vox Media. Retrieved October 20, 2016. 
+^ a b c Smith, Ryan (January 13, 2017). "Nintendo Switch Hardware Launch Details - 32GB w/Expandable Storage, 6.2" 720p Screen, 2.5 to 6.5 Hour Battery Life". Anandtech. Retrieved January 15, 2017. 
+^ a b c d Frank, Allegra (January 13, 2017). "Everything we know about Nintendo Switch". Polygon. Retrieved January 13, 2017. 
+^ a b c d Skrebels, Joe (January 27, 2017). "Nintendo Switch: More Specs and UI Detailed". IGN. Retrieved January 27, 2017. 
+^ Goldfarb, Andrew (January 17, 2017). "Nintendo Explains Differences Between Switch, Wii U Versions of Zelda: Breath of the Wild". IGN. Retrieved January 18, 2017. 
+^ Byford, Sam (January 13, 2017). "Nintendo's Switch already gets right what the Wii U got wrong". The Verge. Retrieved January 17, 2017. 
+^ Phillips, Tom (February 27, 2017). "Nintendo Switch has its first portable-only game". Eurogamer. Retrieved February 27, 2017. 
+^ Crecente, Brian (October 21, 2016). "Nintendo's Switch can't serve as a second gameplay screen in your home". Polygon. Retrieved December 30, 2016. 
+^ a b Yin-Poole, Wesley (January 13, 2017). "A pair of Nintendo Switch Joy-con controllers costs £75". Eurogamer. Retrieved January 13, 2017. 
+^ Kumparak, Greg (October 20, 2016). "Everything we suddenly know about Nintendo's crazy new console, the Switch". TechCrunch. AOL. Retrieved October 21, 2016. 
+^ a b McWhertor, Michael (January 13, 2017). "Nintendo Switch Joy-Con controller does some amazing things". Polygon. Retrieved January 13, 2017. 
+^ "Meet the minds behind Nintendo Switch's HD Rumble tech". Techradar. Retrieved March 7, 2017. 
+^ "Nintendo's HD Rumble will be the best unused Switch feature of 2017". Engadget. Retrieved March 7, 2017. 
+^ a b Statt, Nick (April 12, 2017). "Nintendo introduces new neon yellow Joy-Con color and controller battery pack". The Verge. Retrieved April 12, 2017. 
+^ https://www.theverge.com/circuitbreaker/2017/5/18/15657970/nintendo-switch-joy-con-splatoon-controller-colors
+^ a b c d e f g Nunneley, Stephany (January 27, 2017). "Nintendo Switch: Wireless LAN support, battery replacement, other specs outlined". VG247. Retrieved January 27, 2017. 
+^ "Nintendo Switch confirmed to have Nvidia components". Polygon. Vox Media. Retrieved October 20, 2016. 
+^ "Corporate Management Policy Briefing / Nine Months Financial Results Briefing for Fiscal Year Ending March 2017" (PDF). Nintendo. February 2017. Retrieved February 8, 2017. 
+^ Walton, Mark (December 20, 2016). "Nintendo Switch uses Nvidia Tegra X1 SoC, clock speeds outed". Ars Technica. Retrieved December 20, 2016. 
+^ Humphreys, Matthew (March 20, 2017). "Nintendo Switch Uses a Standard Tegra X1 Processor". PC Magazine. Retrieved March 22, 2017. 
+^ "Nintendo Switch Uses Stock NVIDIA Tegra X1 T210 CPU & GM20B Maxwell Core". wccftech.com. Retrieved March 16, 2017. 
+^ Leadbetter, Richard (March 19, 2017). "Standard Tegra X1 'confirmed' as Switch's processor". Eurogamer. Retrieved March 19, 2017. 
+^ Leadbetter, Richard (February 25, 2017). "New performance mode boosts Switch mobile clocks by 25 per cent". Eurogamer. Retrieved March 22, 2017. 
+^ "Nintendo Switch Teardown". IFixIt. Retrieved March 6, 2017. 
+^ Gartenberg, Chaim (January 13, 2017). "Nintendo announces Switch specs: 720p screen, 32GB of storage, and more". The Verge. Retrieved January 13, 2017. 
+^ Hernandez, Patricia. "Here's Your First Look At The Nintendo Switch, Nintendo's Next Console". Kotaku. Gizmodo Media Group. 
+^ Gartenburg, Chaim (February 14, 2017). "The Nintendo Switch is bringing back the LAN party". The Verge. Retrieved February 14, 2017. 
+^ "LAN Adapter (Nintendo Switch, Wii U, Wii)". Official NOA Nintendo Store. Retrieved July 21, 2017. 
+^ "Nintendo Switch Teardown". IiFixit.com. Retrieved March 5, 2017. 
+^ a b Frank, Allegra (January 13, 2017). "Here's how to charge the Nintendo Switch Joy-Con controller". Polygon. Retrieved January 13, 2017. 
+^ Phillips, Tom (January 16, 2017). "Nintendo Switch's bundled Joy-Con grip doesn't charge controllers". Eurogamer. Retrieved January 16, 2017. 
+^ Marchiafava, Jeff (January 14, 2017). "Nintendo Switch Supports Micro SDXC Memory Cards Up To 2TB". Game Informer. Retrieved January 15, 2017. 
+^ a b c d e f g Schreier, Jason (January 19, 2017). "Nintendo Answers (And Avoids) Our Switch Questions". Kotaku. Retrieved January 19, 2017. 
+^ Phillips, Tom (March 3, 2017). "Finally, we have answers to Nintendo Switch's digital game sharing questions". Eurogamer. Retrieved March 3, 2017. 
+^ https://www.nintendo.co.uk/Support/Nintendo-Switch/Storage/microSD-Cards/Supported-microSD-cards/Supported-microSD-cards-1200156.html
+^ a b Phillips, Tom (October 18, 2017). "Nintendo Switch system update 4.0 adds video capture". Eurogamer. Retrieved October 18, 2017. 
+^ "Bluetooth, wireless headphones will not work with the Nintendo Switch". Polygon. Retrieved March 2, 2017. 
+^ Life, Nintendo (May 16, 2017). "You Can Use Bluetooth Headphones On Your Switch, But There's A Catch". Nintendo Life. Retrieved May 30, 2017. 
+^ Gartenberg, Chaim (October 20, 2017). "Nintendo quietly added wireless USB headphone support in the last Switch update". The Verge. Retrieved October 24, 2017. 
+^ a b Nakamura, Yuji; Amano, Takashi (October 27, 2016). "Nintendo President Hints of Bigger Hardware Plans for Switch". Bloomberg News. Retrieved October 27, 2016. 
+^ a b c Williams, Mike (January 13, 2017). "Nintendo Switch Accessory Prices Are Steep, $80 For Additional JoyCons". US Gamer. Retrieved January 13, 2017. 
+^ "A close look at the Nintendo Switch's wild modular controller: the Joy-Con". The Verge. Vox Media. Retrieved October 20, 2016. 
+^ Hillier, Brenna (January 13, 2017). "Nintendo Switch Pro Controller will cost you $70, JoyCon and other peripherals priced". VG247. Retrieved January 13, 2017. 
+^ Crecente, Brian (January 4, 2016). "Nintendo Switch accessories unveiled at CES". Polygon. Retrieved January 4, 2016. 
+^ Moon, Mariella (October 24, 2017). "Nintendo's Switch now supports your old GameCube controllers". Engadget. Retrieved October 24, 2017. 
+^ Sarkar, Samit (February 1, 2017). "Nintendo 'studying' Switch VR support". Polygon. Retrieved February 1, 2017. 
+^ a b Lee, Aaron; Tsai, Joseph (October 5, 2017). "Nintendo ups Switch supply to 2 million a month". DigiTimes. Retrieved October 9, 2017. 
+^ Savov, Vlad (October 25, 2012). "Nintendo will sell Wii U 'below cost' at launch". The Verge. Retrieved December 9, 2016. 
+^ Nakamura, Yuji; Amano, Takashi (January 31, 2017). "Nintendo Beats Profit, Lifts Forecast on Pokemon Ahead of Switch". Bloomberg. Retrieved January 31, 2017. 
+^ Hall, Charlie (April 5, 2017). "Japanese site estimates Nintendo spends $257 to make one Switch". Polygon. Retrieved April 5, 2017. 
+^ a b c McAloon, Alissa (May 3, 2017). "4 interesting comments from Nintendo's Q&A session". Gamasutra. Retrieved May 3, 2017. 
+^ Kerr, Chris (October 26, 2016). "Nintendo expects Switch to initially ship 2 million units". Gamasutra. Retrieved October 26, 2016. 
+^ a b c Crecente, Brian (February 1, 2017). "Nintendo: 100 games now in development for Switch". Polygon. Retrieved February 1, 2017. 
+^ Lewis, Leo; Inagaki, Kana (May 28, 2017). "Nintendo to ramp up production of Switch as demand soars". Financial Times. Retrieved May 29, 2017. 
+^ Mochizuki, Takashi (May 30, 2017). "Nintendo Battles Apple for Parts as Switch Demand Rises". The Wall Street Journal. Retrieved May 30, 2017. 
+^ Bradshaw, Tim; Lewis, Leo (September 9, 2017). "Component bottlenecks hit Nintendo’s Switch". Financial Times. Retrieved September 9, 2017. 
+^ "Nintendo Switch's updated Mii creator lets you turn your hair blue". Eurogamer. Retrieved March 2, 2017. 
+^ "Nintendo Switch's Mii editor gets colorful". Polygon. Retrieved March 2, 2017. 
+^ Frank, Allegra (February 23, 2017). "Nintendo Switch's day-one patch adds online features". Polygon. Retrieved February 23, 2017. 
+^ Saed, Sherif (September 20, 2017). "The Golf game on every Nintendo Switch is actually a tribute to late Satoru Iwata". VG247. Retrieved September 20, 2017. 
+^ Phillips, Tom (April 12, 2017). "Nintendo posts $20k bounty for info on Switch security vulnerabilities". Eurogamer. Retrieved April 12, 2017. 
+^ a b Grant, Christopher (January 12, 2017). "Nintendo Switch will have a paid online service starting this fall". Polygon. Retrieved January 13, 2017. 
+^ Ng, Alfred; Stein, Scott (January 15, 2017). "Nintendo's Fils-Aime: The Switch won't oust the 3DS". CNET. CBS Interactive. Retrieved January 15, 2017. 
+^ Saed, Sharif (July 19, 2017). "The Nintendo Switch Online app has launched on iOS & Android". VG247. Retrieved July 19, 2017. 
+^ a b c Otero, Jose (June 1, 2017). "Nintendo Switch Online Service Delayed to 2018". IGN. Retrieved June 1, 2017. 
+^ Schreier, Jason (May 1, 2017). "Nintendo Switch's Online Service Will Be $20/Year, Includes Classic Games [UPDATE]". Kotaku. Retrieved May 1, 2017. 
+^ Schreier, Jason (June 1, 2017). "Nintendo Switch's Online Service Will Be $20/Year, Includes Classic Games". Kotaku. Retrieved June 2, 2017. 
+^ Saed, Sharif (June 2, 2017). "No more just one free game you can only play for a month: Nintendo changes its online service's free game scheme". VG247. Retrieved June 2, 2017. 
+^ Grant, Christopher (January 13, 2017). "Nintendo Switch online service's 'free' monthly games come with a huge catch". Polygon. Retrieved January 13, 2017. 
+^ Buckley, Sean (January 12, 2017). "Nintendo Switch online multiplayer won't be free". Engadget. Retrieved January 13, 2017. 
+^ Stark, Chelsea (June 15, 2017). "Nintendo boss explains why Switch's online services were delayed". Polygon. Retrieved June 15, 2017. 
+^ Hillier, Brenna (January 13, 2017). "Nintendo Switch Online Service only confirmed for three countries – here's everything we know about it so far". VG247. Retrieved January 13, 2017. 
+^ Pereira, Chris (February 1, 2017). "Nintendo Switch's Online Subscription Service May Cost Less Than You Expect". GameSpot. Retrieved February 1, 2017. 
+^ Nunneley, Stephany (February 1, 2017). "Nintendo Switch Online Service will run between $17.50 and $26.50 a year in Japan". VG247. Retrieved February 1, 2017. 
+^ Clark, Willie (January 13, 2017). "Nintendo Switch won't have Miiverse or StreetPass". Venture Beat. Retrieved January 13, 2017. 
+^ Saed, Sharif (March 2, 2017). "Nintendo Switch day one update reintroduces friend codes". VG247. Retrieved March 2, 2017. 
+^ Crecente, Brian (March 2, 2017). "Nintendo adding new friending methods for the Switch, post launch". Polygon. Retrieved March 2, 2017. 
+^ a b Matulef, Jeffrey (February 17, 2017). "Nintendo Switch eShop will finally link purchases to accounts, not consoles". Eurogamer. Retrieved February 17, 2017. 
+^ Schwartz, Terri (January 13, 2017). "Nintendo Reveals Parental Controls for Switch". IGN. Retrieved January 13, 2017. 
+^ Miller, Ross (March 2, 2017). "The Nintendo Switch has a secret browser, but you can't use it for much". The Verge. Retrieved March 2, 2017. 
+^ a b Tsukayama, Hayley (March 8, 2017). "Nintendo's U.S. chief responds to our biggest gripes about the company's new console". The Washington Post. Retrieved March 8, 2017. 
+^ Gilbert, Ben (January 18, 2017). "I played Nintendo's new game console, the Switch — this is what it's like". Business Insider. Retrieved January 18, 2017. 
+^ Frank, Allegra (July 12, 2017). "Nintendo Switch is getting its first streaming app". Polygon. Retrieved July 12, 2017. 
+^ Whitehead, Thomas (March 6, 2017). "NetFront Browser NX by ACCESS — Powering the Switch 'WebKit' Online Services". Nintendo Life. Retrieved March 8, 2017. 
+^ Cunningham, Andrew (March 13, 2017). "Nintendo Switch ships with unpatched 6-month-old WebKit vulnerabilities". Ars Technica. Retrieved March 13, 2017. 
+^ "Nintendo Switch will use cartridges". Polygon. Vox Media. Retrieved October 20, 2016. 
+^ Sarkar, Samit; Alexander, Julia (March 1, 2017). "Nintendo Switch game cartridges taste offensively bad, trust us (update)". Polygon. Retrieved October 10, 2017. 
+^ Grant, Christopher (January 13, 2017). "Nintendo Switch games are $60, here's what the boxes look like". Polygon. Retrieved January 13, 2017. 
+^ Williams, Mike (March 13, 2017). "Nintendo Rules and Cart Prices Making Switch Games More Expensive". US Gamer. Retrieved March 13, 2017. 
+^ Carter, Chris (September 8, 2017). "L.A. Noire will have the 'Switch tax' that makes it $10 more expensive on Nintendo's platform". Destructoid. Retrieved September 8, 2017. 
+^ Frank, Allegra. "Another third-party Switch game causes uproar". Polygon. Retrieved March 27, 2017. 
+^ Dornbush, Jonathon (September 5, 2017). "Some Nintendo Switch Games Will Require Memory Cards". IGN. Retrieved September 5, 2017. 
+^ Arnold, Cory (October 21, 2016). "Nintendo Switch not compatible with physical 3DS or Wii U games". Destructoid. Retrieved October 21, 2016. 
+^ Makuch, Eddie (February 23, 2017). "No Virtual Console For Nintendo Switch At Launch". GameSpot. Retrieved February 23, 2017. 
+^ Stewart, Keith (February 3, 2017). "RIP Wii U: Nintendo's glorious, quirky failure". The Guardian. Retrieved February 5, 2017. 
+^ Carter, Chris (January 23, 2017). "EA claims Nintendo is making a bigger effort for third parties with the Switch". Destructoid. Retrieved January 23, 2017. 
+^ Williams, Mike (February 2, 2017). "Switch-ing On Indie Support For Nintendo's New Platform". US Gamer. Retrieved February 3, 2017. 
+^ Plante, Chris (March 1, 2017). "The Nintendo Switch indie strategy: release new games every week". The Verge. Retrieved March 1, 2017. 
+^ Graft, Kris (March 2, 2017). "Becoming a Nintendo Switch indie dev will be tough early on". Gamasutra. Retrieved March 2, 2017. 
+^ Faulkner, Jason (February 21, 2017). "Nintendo Switch Development Kits Low Price Might Entice Indie Developers". Shacknews. Retrieved February 21, 2017. 
+^ Arnold, Cory (February 23, 2017). "eShop will be ready at Switch launch with 'Nindies' including timed exclusive Shovel Knight DLC". Destructoid. Retrieved February 23, 2017. 
+^ McAloon, Alissa (February 28, 2017). "More than 60 games make up the Switch's year one indie offerings". Gamasutra. Retrieved February 28, 2017. 
+^ Whitehead, Thomas (April 26, 2017). "Feature: The Growing Pains of Curation on the Nintendo Switch eShop". Nintendo Life. Retrieved April 26, 2017. 
+^ Carter, Chris (April 26, 2017). "According to some indie developers, Nintendo hasn't changed all that much". Destructoid. 
+^ "Nintendo announces publishers and developers for the Switch – including Bethesda, EA, 2K and more". VG24/7. Retrieved October 20, 2016. 
+^ Miller, Ross (October 20, 2016). "Activision, EA, Bethesda, and more pledge support for Nintendo Switch". The Verge. Retrieved October 20, 2016. 
+^ a b Grubb, Jeff (February 7, 2017). "Miyamoto: Nintendo's internal studios have 'mastered' the Unreal Engine". Venture Beat. Retrieved February 7, 2017. 
+^ Alexander, Julia (October 20, 2016). "Activision, Bethesda and dozens of other companies will support Nintendo Switch". Polygon. Retrieved October 21, 2016. 
+^ Skrebels, Joe (October 21, 2016). "Nintendo Switch will Support Unreal Engine 4". IGN. Retrieved October 21, 2016. 
+^ Moser, Cassidee (December 20, 2016). "Nintendo Switch Added to Hardware Supporting Vulkan, OpenGL 4.5, and OpenGL ES". Shacknews. Retrieved December 20, 2016. 
+^ Grubb, Jeff (February 15, 2017). "Unreal Engine gets native Nintendo Switch support". Venture Beat. Retrieved February 15, 2017. 
+^ Newhouse, Alex (May 24, 2017). "Nintendo Switch Now Fully Compatible With Unreal Engine 4". GameSpot. Retrieved May 24, 2017. 
+^ Priestman, Chris (March 10, 2017). "What's it like developing for the Switch? 9 indie studios weigh in". Gamasutra. Retrieved March 10, 2017. 
+^ "Just Dance 2017 is the first Western game to be announced for NX". Eurogamer. Retrieved June 26, 2016. 
+^ "'Project Sonic 2017' is coming to Xbox One, PS4 and Nintendo NX". Engadget. AOL Inc. Retrieved October 20, 2016. 
+^ "DRAGON QUEST 10 CONFIRMED FOR NINTENDO NX". IGN. Retrieved October 26, 2016. 
+^ "Dragon Quest creator again confirms a launch on Nintendo NX". Polygon. Retrieved October 26, 2016. 
+^ a b Wawro, Alex (October 20, 2016). "Devs React: Nintendo unveils its hybrid-handheld console Switch". Gamasutra. Retrieved October 20, 2016. 
+^ Reilly, Luke (April 27, 2016). "Nintendo NX Will Launch In March 2017". IGN. Ziff Davis. Retrieved April 27, 2016. 
+^ "Zelda Wii U Delayed to 2017, Also Coming to NX". IGN. Ziff Davis Media. Retrieved May 3, 2016. 
+^ "The 6 games Nintendo showed for the Switch". The Verge. Vox Media. Retrieved October 20, 2016. 
+^ Philips, Tom (October 24, 2016). "Nintendo fans pick apart Switch reveal video". Eurogamer. Retrieved October 24, 2016. 
+^ Pereira, Chris (October 20, 2016). "Skyrim Not Confirmed for Nintendo Switch, Despite Appearing in Video Reveal". GameSpot. Retrieved October 20, 2016. 
+^ Brightman, James (October 24, 2016). "Nintendo: Switch video does not represent actual game footage". GamesIndustry.biz. Retrieved October 24, 2016. 
+^ a b Pereaia, Chris (January 13, 2017). "Why Switch Doesn't Include Any Bundled Games". GameSpot. Retrieved January 13, 2017. 
+^ Carter, Chris (January 31, 2017). "The Nintendo Switch doesn't come with any software, even demos, pre-installed". Destructoid. Retrieved January 31, 2017. 
+^ Onder, Cade (January 18, 2017). "The Binding of Isaac: Afterbirth + will launch on March 3rd for Nintendo Switch". Gamezone. Retrieved January 18, 2017. 
+^ Romano, Sal (January 23, 2017). "I Am Setsuna for Switch launches March 3". Gematsu. Retrieved January 23, 2017. 
+^ Cork, Jeff (January 24, 2017). "World Of Goo, Little Inferno, Human Resource Machine Heading To Switch". Game Informer. Retrieved January 24, 2017. 
+^ Makuch, Eddie (January 17, 2017). "Nintendo Exec on the Two Reasons Why Switch Won't Struggle Like Wii U Did". GameSpot. Retrieved January 17, 2017. 
+^ a b Alexander, Julia (October 21, 2016). "Nintendo stock drops 7 percent after Switch reveal". Polygon. Vox Media. Retrieved October 21, 2016. 
+^ Fahey, Rob (October 26, 2016). "Switch targets Japan's TV-less youth". GamesIndustry.biz. Retrieved October 28, 2016. 
+^ Byford, Sam (January 26, 2017). "First Click: The future of Japanese games may rely on the Nintendo Switch". The Verge. Retrieved January 26, 2017. 
+^ a b Choudhury, Saheli Roy (January 13, 2017). "Nintendo Switch to launch globally on March 3, to cost $300 in the US". CNBC. Retrieved January 13, 2017. 
+^ a b Takahashi, Dean (January 13, 2017). "Nintendo Switch draws mixed reactions from analysts". Venture Beat. Retrieved January 13, 2017. 
+^ Lewis, Leo; Inagaki, Kana (January 13, 2017). "Nintendo shares dive on pricing of Switch console". Financial Times. Retrieved January 17, 2017. 
+^ a b Baker, Chris (January 17, 2017). "Handicapping the Switch's chances: Industry analysts weigh in". Gamasutra. Retrieved January 17, 2017. 
+^ a b Fahey, Rob (February 3, 2017). "Risky Nintendo spooks the markets". GamesIndustry.biz. Retrieved February 3, 2017. 
+^ Mochizuki, Takashi (October 21, 2016). "Nintendo's New Switch Console Fails to Turn On Investors". Wall Street Journal. Retrieved February 3, 2017. 
+^ Makuch, Eddie (January 13, 2017). "Nintendo Stock Price Drops After Latest Switch News". GameSpot. Retrieved January 13, 2017. 
+^ Molina, Brett (January 12, 2017). "Survey: Game developers mixed about Nintendo Switch". USA Today. Retrieved January 18, 2017. 
+^ "The Nintendo Switch could unite the gaming audience, Ubisoft exec says". Polygon. Vox Media. Retrieved January 13, 2017. 
+^ "Xbox boss gives the Nintendo Switch the thumbs up". Digital Spy. Retrieved January 13, 2017. 
+^ O'Brein, Lucy (February 3, 2017). "Hideo Kojima Shares His Thoughts on Nintendo Switch". IGN. Retrieved February 6, 2017. 
+^ Orrey, James (November 7, 2016). "Capcom looking into PS4, Xbox One and Nintendo Switch multiplatform games". Videogamer.com. Retrieved November 7, 2016. 
+^ "Fallout 4 director Todd Howard on Bethesda Game Studios' creative process". IGN. February 23, 2017. Retrieved March 3, 2017. 
+^ Grant, Christopher (October 21, 2016). "The Nintendo Switch reveal is the most viewed video on Nintendo's YouTube page". Polygon. Vox Media. Retrieved October 23, 2016. 
+^ "Engadget's first thoughts on the Nintendo Switch". Engadget. October 20, 2016. Retrieved October 24, 2016. 
+^ Nunneley, Stephany (January 21, 2017). "Nintendo Switch to sell 40 million units by 2020, according to forecast by market research firm". VG247. Retrieved January 21, 2017. 
+^ Saed, Sharif (March 2, 2017). "Nintendo Switch predicted to sell 5 million by the end of the year, but price tag could make for a slow start". VG247. Retrieved March 2, 2017. 
+^ Makuch, Eddie (November 23, 2016). "Nintendo Switch Could Be a "Game-Changer," May Have Motion Controls, GameStop Says". GameSpot. Retrieved November 23, 2016. 
+^ Good, Owen (January 15, 2017). "Nintendo Switch sold out at GameStop; good luck finding it elsewhere". Polygon. Retrieved January 27, 2017. 
+^ Saed, Sherif (January 27, 2017). "Nintendo Switch pre-orders already at 80% of the console's initial shipment in Japan". VG247. Retrieved January 27, 2017. 
+^ Saed, Sharif (March 1, 2017). "Nintendo Switch reviews round-up: the final verdict". VG247. Retrieved March 1, 2017. 
+^ Frank, Allegra; Sarkar, Samit; Alexander, Julia (March 3, 2017). "Nintendo Switch users face hardware issues on launch day". Polygon. Retrieved March 4, 2017. 
+^ Peckham, Matt (March 9, 2017). "Nintendo America's Boss Answers Our Questions About Switch Concerns". Time. Retrieved March 10, 2017. 
+^ Dornbrush, Jonathan (March 22, 2017). "Nintendo Confirms Source of Joy-Con Sync Issues". IGN. Retrieved March 22, 2017. 
+^ Hollister, Sean (March 22, 2017). "Nintendo has an easy fix for the Switch Joy-Con desync issue". CNet. Retrieved March 22, 2017. 
+^ Humphreys, Matthew (March 7, 2017). "Nintendo: Switch Screen Dead Pixels Are Not a Defect". PC Magazine. Retrieved March 7, 2017. 
+^ "Sony, Microsoft, and of course Arby's congratulate Nintendo on the Switch". March 3, 2017. Retrieved March 5, 2017. 
+^ Titcomb, James (March 7, 2017). "Switch is 'fastest-selling console in Nintendo's history'". The Daily Telegraph. Retrieved March 7, 2017. 
+^ "The Switch broke Nintendo's sales records (in the Americas, at least)". The Verge. March 6, 2017. Retrieved March 6, 2017. 
+^ Schreier, Jason (April 13, 2017). "Nintendo Sells Nearly A Million Switches In The United States". Kotaku. Retrieved April 13, 2017. 
+^ Grubb, Jeff (March 6, 2017). "Nintendo sells 313,700 Switch consoles in Japan over launch weekend". Venture Beat. Retrieved March 6, 2017. 
+^ Frank, Allegra (March 7, 2017). "Nintendo Switch launch sales are good news — but not great news yet". Polygon. Vox Media. Archived from the original on March 8, 2017. Retrieved March 9, 2017. 
+^ Handrahan, Matthew (March 30, 2017). "Nintendo Switch reaches 500,000 sales in Japan". GamesIndustry.biz. Retrieved March 30, 2017. 
+^ Dring, Christopher. "Nintendo Switch UK launch sales hit 80,000". 
+^ Monzón, Alejandro Oramas (March 8, 2017). "Nintendo Switch es el mejor lanzamiento de una consola en España". Hobby Consolas (in Spanish). Axel Springer SE. Archived from the original on March 9, 2017. Retrieved March 9, 2017. 
+^ Woitier, Chloé. "La Nintendo Switch bat tous les records de ventes en France". Le Figaro (in French). Dassault Group. Archived from the original on March 18, 2017. Retrieved March 18, 2017. 
+^ Makuch, Eddie (March 8, 2017). "Nintendo Switch Is Nintendo's Fastest-Selling Console Ever In The Americas, Europe, and Australia". GameSpot. CBS Interactive. Archived from the original on March 18, 2017. Retrieved March 18, 2017. 
+^ "Nintendo au plus haut en bourse grâce à sa console Switch". LesEchos (in French). Retrieved October 12, 2017. 
+^ a b c Makuch, Eddie (April 27, 2017). "Nintendo Switch Ships 2.74 Million Units Worldwide". GameSpot. Retrieved April 27, 2017. 
+^ Stark, Chelsea (April 27, 2017). "Nintendo sold 2.74 million switch consoles worldwide in March". Polygon. Retrieved April 27, 2017. 
+^ Mochizuki, Takashi (May 1, 2017). "Nintendo Shipped Switch Consoles by Plane to Quickly Meet High Demand". Wall Street Journal. Retrieved May 1, 2017. 
+^ Makuch, Eddie (March 20, 2017). "GameStop: Nintendo Switch Sales "Phenomenal," Could Outpace Wii". GameSpot. Retrieved March 20, 2017. 
+^ Mochizuki, Takashi (March 17, 2017). "Nintendo to Double Production of Switch Console". The Wall Street Journal. Retrieved March 17, 2017. 
+^ a b Brightman, James (May 2, 2017). "Nintendo now believes Switch can reach Wii sales levels". GamesIndustry.biz. Retrieved May 2, 2017. 
+^ "Consolidated Financial Statements Nintendo" (PDF). nintendo.co.jp. April 27, 2017. p. 3. Retrieved April 29, 2017. 
+^ Sinclair, Brendan (April 28, 2017). "Switch boasts 2:1 software tie ratio". GamesIndustry.biz. Retrieved April 28, 2017. 
+^ Phillips, Tom (May 17, 2017). "Nintendo Switch best-selling console in US for second month". Eurogamer. Retrieved May 17, 2017. 
+^ Wawro, Alex (May 25, 2017). "GameStop's sales rise on the back of Nintendo's Switch, even as profits slip". Gamesutra. Retrieved May 26, 2017. 
+^ Boyle, Matthew; Townsend, Matthew (May 25, 2017). "Best Buy Soars After Nintendo Switch Helps Bring Surprise Growth". Bloomberg. Retrieved May 26, 2017. 
+^ Kerr, Chris (July 4, 2017). "Japanese console market grows for the first time in three years". Gamasutra. Retrieved July 4, 2017. 
+^ Kerr, Chris (July 26, 2017). "Sales up at Nintendo as Switch sells 4.7M units worldwide". Gamasutra. Retrieved July 26, 2017. 
+^ Crecente, Brian (October 19, 2017). "Nintendo: Two-Thirds of September Hardware Sales Were Nintendo Systems". Glixel. Retrieved October 19, 2017. 
+^ Knezevic, Kevin (May 25, 2017). "Switch Helps Nintendo's Stock Reach Its Highest Point Since Wii". GameSpot. Retrieved May 25, 2017. 
+^ Knezevic, Kevin (May 26, 2017). "Switch's Monster Hunter XX Reveal Boosts Nintendo's Rising Stock To 8-Year High". GameSpot. Retrieved May 26, 2017. 
+^ Hester, Blake (September 19, 2017). "Nintendo's Tencent Partnership Could Open Door to Switch In China: WSJ". Glixel. Retrieved September 20, 2017. 
+^ Mochizuki, Takashi; Abkowitz, Alyssa (September 19, 2017). "Nintendo Surges on Prospect of Greater Access to China". The Wall Street Journal. Retrieved September 20, 2017. 
+^ Taylor, Haydn (October 9, 2017). "Nintendo shares hit-ten year high". GamesIndustry.biz. Retrieved October 9, 2017. 
+^ "Nintendo Switch launches on 3rd March 2017!". Nintendo Australia. January 14, 2017. Retrieved January 14, 2017. 
+^ Sinclair, Brendan (May 18, 2017). "Splatoon 2 gets Switch hardware bundle". GamesIndustry.biz. Retrieved May 18, 2017. 
+^ Frank, Allegra (August 17, 2017). "Nintendo Switch bundle brings a fresh new Joy-Con color stateside". Polygon. Retrieved August 17, 2017. 
+^ Knezevic, Kevin (June 1, 2017). "Here's Another Look At Switch's Limited-Edition Monster Hunter XX Console". GameSpot. Retrieved June 1, 2017. 
+^ Fingas, Jon (August 11, 2017). "Nintendo faces lawsuit over the Switch's detachable controllers". Engadget. Retrieved August 11, 2017. 
+
+
+External links[edit]
+
+
+
+Wikimedia Commons has media related to Nintendo Switch.
+
+
+
+Official website
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Nintendo Switch
+
+
+
+Hardware
+
+
+
+Nintendo Switch
+Joy-Con
+Pro Controller
+Amiibo
+
+
+
+
+
+
+
+
+Software and services
+
+
+
+System software
+
+Mii
+Nintendo eShop
+
+
+Home Menu apps
+
+Niconico
+
+
+Game library
+
+Best-selling
+
+
+My Nintendo
+
+
+
+
+
+Licensed toolkits
+
+
+
+Autodesk Gameware
+Creation Engine
+Havok
+Gamebryo
+Umbra
+Unity
+Unreal Engine 4
+Wwise
+
+
+
+
+
+
+
+← Predecessor: Wii U
+
+
+
+
+
+
+
+ Category
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Nintendo video game hardware
+
+
+
+Consoles
+
+
+
+
+Home
+
+
+
+NES
+
+Famicom Titler
+Twin Famicom
+NES-101
+Sharp Nintendo Television
+NES Classic Edition
+accessories
+
+
+Super NES
+
+New-Style
+SF Naizou TV SF1
+Super NES Classic Edition
+
+
+Nintendo 64
+
+iQue Player
+
+
+GameCube
+
+Panasonic Q
+accessories
+
+
+Wii
+Wii U
+Nintendo Switch
+
+
+
+
+
+Handheld
+
+
+
+Game Boy
+Game Boy Color
+Virtual Boy
+Game Boy Advance
+
+SP
+Micro
+Dockable Entertainment
+
+
+Pokémon Mini
+Nintendo DS
+
+Lite
+DSi
+
+
+Nintendo 3DS
+
+2DS
+New 3DS
+New 2DS XL
+
+
+
+
+
+
+
+Dedicated
+
+
+
+
+Home
+
+
+
+Color TV-Game
+NES Classic Edition
+Super NES Classic Edition
+
+
+
+
+
+Handheld
+
+
+
+Game & Watch
+
+Mini Classics
+
+
+Pokémon Pikachu
+
+
+
+
+
+Arcade
+
+
+
+VS. System
+PlayChoice-10
+Super Famicom Box
+Nintendo Super System
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Peripherals
+
+
+
+
+Add-ons
+
+
+
+3D System
+Data Recorder
+Disk System
+Satellaview
+Super NES CD-ROM (unreleased)
+Super Game Boy
+Game Boy Camera
+Game Boy Printer
+64DD
+Rumble Pak
+e-Reader
+Game Boy Player
+
+
+
+
+
+Connectivity
+
+
+
+NES Four Score
+NES Satellite
+Game Link Cable
+GCN-GBA Link Cable
+
+
+
+
+
+Controllers
+
+
+
+Family BASIC
+NES Advantage
+NES Zapper
+Power Pad
+R.O.B.
+Speedboard
+SNES Mouse
+Super Scope
+Nintendo 64 controller
+GameCube controller
+
+WaveBird Wireless
+
+
+Wii Balance Board
+Wii Remote
+
+Classic Controller
+MotionPlus
+Wii Zapper
+Third-party accessories
+
+
+Wii Speak
+Wii U GamePad
+Wii U Pro Controller
+Joy-Con
+
+
+
+
+
+Networking
+
+
+
+Family Computer Network System
+Teleplay Modem
+XBAND
+Satellaview
+GCN Modem and Broadband Adapter
+Nintendo Wi-Fi USB Connector
+
+
+
+
+
+Other
+
+
+
+Nintendo Power
+Nintendo DS & DSi Browser
+Amiibo
+
+
+
+
+
+
+
+
+Technology
+
+
+
+
+Media
+
+
+
+NES Game Pak
+SNES Game Pak
+N64 Game Pak
+Game Boy Advance Video
+Nintendo optical discs
+Nintendo game card
+
+
+
+
+
+Processors
+
+
+
+2A03
+PPU
+5A22
+S-APU
+GSU
+RCP
+Gekko
+Broadway
+Hollywood
+PICA200
+Espresso
+Erista
+
+
+
+
+
+
+
+
+
+List of products
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Video game consoles
+
+
+
+Types
+
+
+
+Home video game console
+
+list
+
+
+Handheld game console
+
+list
+
+
+Microconsole
+
+list
+
+
+Dedicated console
+
+list
+
+
+
+
+
+
+
+Generations
+
+
+
+First (1972–80)
+Second (1976–92)
+Third (1983–2003)
+Fourth (1987–2004)
+Fifth (1993–2005)
+Sixth (1998–2013)
+Seventh (2005–17)
+Eighth (2012–)
+
+
+
+
+
+Other
+generation
+
+
+
+
+Home
+
+
+
+Leapster
+V.Smile
+
+V.Flash
+
+
+Xavix
+
+
+
+
+
+Handheld
+
+
+
+GameKing consoles
+LeapFrog Didj
+Neo Geo X
+Pokémon Mini
+
+
+
+
+
+Hybrid
+
+
+
+Nintendo Switch
+
+
+
+
+
+Dedicated
+
+
+
+Atari Flashback
+Barcode Battler
+C64 Direct-to-TV
+Coleco Sonic
+Plug It in & Play TV Games
+NES Classic Edition
+Stunt Cycle
+Super NES Classic Edition
+Pelican VG Pocket consoles
+
+
+
+
+
+
+
+
+
+
+← Eighth generation
+
+Emulator
+Game
+History
+List
+Manufacturer
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Home video game consoles
+
+
+
+Atari
+
+
+
+Atari 2600
+Atari 5200
+Atari 7800
+Atari XEGS
+Atari Jaguar
+
+
+
+
+
+Bandai
+
+
+
+Super Vision 8000
+Arcadia
+RX-78
+Playdia
+Apple Bandai Pippin
+
+
+
+
+
+Casio
+
+
+
+PV-1000
+Casio Loopy
+
+
+
+
+
+Commodore
+
+
+
+Commodore 64 Games System
+Commodore CDTV
+Amiga CD32
+
+
+
+
+
+Mattel
+
+
+
+Intellivision
+HyperScan
+
+
+
+
+
+Microsoft
+
+
+
+Xbox
+Xbox 360
+Xbox One
+
+
+
+
+
+NEC
+
+
+
+TurboGrafx-16
+PC-FX
+
+
+
+
+
+Nintendo
+
+
+
+NES
+SNES
+N64
+GameCube
+Wii
+Wii U
+Switch
+
+
+
+
+
+Philips
+
+
+
+Magnavox Odyssey
+Odyssey²
+Videopac + G7400
+Philips CD-i
+
+
+
+
+
+Sega
+
+
+
+SG-1000
+Master System
+Sega Genesis
+Sega Saturn
+Dreamcast
+
+
+
+
+
+SNK
+
+
+
+Neo Geo
+Neo Geo CD
+
+
+
+
+
+Sony
+
+
+
+PlayStation
+PlayStation 2
+PSX
+PlayStation 3
+PlayStation 4
+
+
+
+
+
+VTech
+
+
+
+VTech CreatiVision
+Socrates
+V.Smile
+V.Flash
+
+
+
+
+
+Others
+
+
+
+
+1970s
+
+
+
+APF-MP1000
+Bally Astrocade
+Fairchild Channel F
+RCA Studio II
+Interton VC 4000/1292 Advanced Programmable Video System
+
+
+
+
+
+1980s
+
+
+
+Action Max
+Arcadia 2001
+ColecoVision
+Epoch Cassette Vision
+Super Cassette Vision
+RDI Halcyon
+Vectrex
+
+
+
+
+
+1990s
+
+
+
+3DO Interactive Multiplayer
+Amstrad GX4000
+CPS Changer
+FM Towns Marty
+LaserActive
+Super A'Can
+
+
+
+
+
+2000s
+
+
+
+DISCover
+EVO Smart Console
+Game Wave
+Nuon
+XaviXPORT
+Zeebo
+
+
+
+
+
+
+
+
+
+List
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Handheld game consoles
+
+
+
+Bandai
+
+
+
+LCD Solarpower
+Design Master Senshi
+WonderSwan
+
+
+
+
+
+Game Park/Holdings
+
+
+
+GP32
+GP2X
+XGP
+GP2X Wiz
+CAANOO
+
+
+
+
+
+Nintendo
+(comparison)
+
+
+
+Game Boy line
+
+Game Boy
+Color
+
+
+Game Boy Advance family
+
+Advance
+Advance SP
+Micro
+
+
+Virtual Boy
+Pokémon Pikachu
+Nintendo DS family
+
+Nintendo DS
+Lite
+DSi
+
+
+Nintendo 3DS family
+
+Nintendo 3DS
+2DS
+New 3DS
+New 2DS XL
+
+
+Switch
+
+
+
+
+
+Nokia
+
+
+
+N-Gage
+N-Gage QD
+
+
+
+
+
+Sega
+
+
+
+Game Gear
+Nomad
+
+
+
+
+
+SNK
+
+
+
+Neo Geo Pocket
+Neo Geo Pocket Color
+Neo Geo X
+
+
+
+
+
+Sony
+
+
+
+PlayStation Portable
+Xperia Play
+PlayStation Vita
+
+
+
+
+
+Tiger
+
+
+
+R-Zone
+Game.com
+
+
+
+
+
+Other handhelds
+
+
+
+
+1970s
+
+
+
+Microvision
+
+
+
+
+
+1980s
+
+
+
+Select-A-Game
+Entex Adventure Vision
+Nelsonic Industries
+Electronika
+Epoch Game Pocket Computer
+Atari Lynx
+
+
+
+
+
+1990s
+
+
+
+TurboExpress
+Game Master
+Gamate
+Barcode Battler
+Watara Supervision
+Mega Duck
+
+
+
+
+
+2000s
+
+
+
+Tapwave Zodiac
+GameKing
+GPANG service
+Didj
+Leapster
+Gizmondo
+Coleco Sonic
+Dingoo
+V-Smile Pocket
+
+
+
+
+
+2010s
+
+
+
+JXD devices
+Pandora
+DragonBox Pyra
+Shield Portable
+GCW Zero
+GPD XD
+GPD Win
+
+
+
+
+
+
+
+
+
+
+
+Early units
+List
+Comparison
+
+
+
+
+
+
+
+
+2010s portal
+Video games portal
+Nintendo portal
+
+
+
+
+
+
+
+
+<img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" />					
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Nintendo_Switch&oldid=807532637"					
+				Categories: 2010s toys2017 in video gamingARM-based video game consolesComputer-related introductions in 2017Home video game consolesHandheld game consolesNintendo SwitchProducts introduced in 2017Regionless game consolesHidden categories: Articles containing Japanese-language textCS1 Spanish-language sources (es)CS1 Korean-language sources (ko)CS1 maint: Unrecognized languageCS1 Portuguese-language sources (pt)CS1 French-language sources (fr)Use mdy dates from October 2017Pages using deprecated image syntax				
+							
+		
+		
+			Navigation menu
+
+			
+									
+						Personal tools
+						
+							Not logged inTalkContributionsCreate accountLog in						
+					
+									
+										
+						Namespaces
+						
+														Article
+							Talk
+						
+					
+										
+												
+							Variants
+						
+
+						
+							
+															
+						
+					
+									
+				
+										
+						Views
+						
+														Read
+							Edit
+							View history
+						
+					
+										
+						More
+
+						
+							
+															
+						
+					
+										
+						
+							Search
+						
+
+						
+							
+														
+						
+					
+									
+			
+			
+				
+						
+			Navigation
+
+			
+									
+						Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store					
+							
+		
+			
+			Interaction
+
+			
+									
+						HelpAbout WikipediaCommunity portalRecent changesContact page					
+							
+		
+			
+			Tools
+
+			
+									
+						What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page					
+							
+		
+			
+			Print/export
+
+			
+									
+						Create a bookDownload as PDFPrintable version					
+							
+		
+			
+			In other projects
+
+			
+									
+						Wikimedia Commons					
+							
+		
+			
+			Languages
+
+			
+									
+						ÆngliscالعربيةCatalàČeštinaDanskDeutschEestiΕλληνικάEspañolEsperantoEuskaraفارسیFrançais한국어HrvatskiItalianoעבריתქართულიLëtzebuergeschLietuviųMagyarمصرىBahasa MelayuNederlands日本語NorskNorsk nynorskPolskiPortuguêsРусскийScotsSimple EnglishSuomiSvenskaไทยTürkçeУкраїнська粵語中文					
+				Edit links			
+		
+				
+		
+		
+							
+											 This page was last edited on 28 October 2017, at 15:54.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Cookie statement
+											Mobile view
+									
+										
+											
+													
+											
+													
+									
+						
+		
+		
+	
+

@@ -33,16 +33,24 @@ function scrapePage () {
           return;
         }
         //write the entire scraped page to the local file system
-        fs.writeFile('./scraped_info/' + search + '.html', responseHtml, function(err){
-            console.log('entire-page.html successfully written to HTML folder');
-            //write isolated sections of the entire scraped page to the local file system
+        fs.writeFile('./scraped_info/' + search + '.html', responseHtml, function(error){
+          if (error) {
+            console.error(error.message);
+            return;
+          }
+          console.log('entire-page.html successfully written to HTML folder');
+          //write isolated sections of the entire scraped page to the local file system
         });
           //create the cheerio object
           var $ = cheerio.load(responseHtml),
             //create a reference to the desired element
             $links = $(query).nextAll();
         //write the data to the local file system
-        fs.writeFile('./scraped_info/' + search + '_' + query +'.html', $links, function(err){
+        fs.writeFile('./scraped_info/' + search + '_' + query +'.html', $links, function(error){
+          if (error) {
+            console.error(error.message);
+            return;
+          }
             console.log('title.html successfully written to HTML folder');
         });
       });

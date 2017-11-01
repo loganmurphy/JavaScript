@@ -1,0 +1,15 @@
+{
+  "name": "pg_promise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "create_album.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pg-promise": "^7.2.0",
+    "readline-promise": "0.0.1"
+  }
+}

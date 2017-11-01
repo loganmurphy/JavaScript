@@ -14,7 +14,7 @@ function getImgs(url) {
         var files = [];
         var $pics = $('img').each(function(i, elem){
           var img_url = $(this).attr('src');
-          console.log(i, img_url);w
+          console.log(i, img_url);
           if (img_url.startsWith('//')) {
             img_url = 'https:' + img_url;
           } else if (img_url.startsWith('/')) {

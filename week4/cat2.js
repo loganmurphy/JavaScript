@@ -2,53 +2,22 @@
 
 var fs = require('fs-promise');
 function read_files(file1, file2){
-  var stuff = [];
-  var p1 = fs.readFile(file1)
-    .then(function (buffer, resolve, reject) {
-      var content = buffer.toString()
-      stuff.push(content)
-      // console.log(stuff)
+  var p1 = fs.readFile(file1);
+  var p2 = fs.readFile(file2);
+  return Promise.all([p1, p2]);
 
-      // console.log(content)
-      return stuff;
-      p1.resolve(p1)
 
-    })
-    .catch(function (e) {
-      reject(e);
-    });
-
-  var p2 = fs.readFile(file2)
-    .then(function (buffer, resolve, reject) {
-      var content2 = buffer.toString()
-      stuff.push(content2)
-      // console.log(stuff)
-
-      // console.log(content2)
-      return stuff;
-      p2.resolve(p2)
-
-    })
-    .catch(function (e) {
-      reject(e);
-    });
-
-    return Promise.all(p1, p2, stuff);
-}
-
-function concat(file3){
-  var p3 = new Promise(function (resolve, reject) {
-    // read_files(file1, file2)
-    fs.writeFile(file3)
-      .then(function () {
-        resolve();
-      })
-      .catch(function (e) {
-        reject(e);
-      });
-      return p3
-  })
+function concat(file3, content1, content2){
+  var total_content = content1 + content2;
+  return fs.writeFile(file3, total_content);
 }
 
 read_files('./file1.txt', './file2.txt')
-concat('./concat.txt')
+  .then(function (buffers) {
+    var content1 = buffers[0].toString();
+    var content2 = buffers[1].toString();
+    return concat('./concat.txt', content1, content2);
+  })
+  .then(function () {
+    console.log('DONE');
+  });

@@ -8,6 +8,7 @@
 //     console.log(error);
 //   });
 
+// one way
 function addNumbers1(num1, num2){
   var p = new Promise(function (resolve, reject){
     var answer  = Number(num1 + num2)
@@ -16,22 +17,19 @@ function addNumbers1(num1, num2){
       resolve(answer)
       return p
     }
-    // else {
-    //     reject(e);
-    //   }
-    })
-    .then(function(value) {
-      console.log(`The new num is: ${value}`);
-    })
-    // .catch(function(error) {
-    //   console.log("They both need to be numbers!");
-    // })
-    return p
+  })
+  .then(function(value) {
+    console.log(`The new num is: ${value}`);
+  })
+  .catch(function(error) {
+    console.log("They both need to be numbers!");
+  })
+  return p
 }
 
 addNumbers1(1, 10)
 
-
+// another way
 function addNumbers(num1, num2){
   var p = new Promise(function (resolve, reject){
     var answer  = Number(num1 + num2)
@@ -48,9 +46,9 @@ function addNumbers(num1, num2){
   .then(function(value) {
     console.log(`The new num is: ${value}`);
   })
-  // .catch(function(error) {
-  //   console.log(error);
-  // })
+  .catch(function(error) {
+    console.log(error);
+  })
   return p
 }
 

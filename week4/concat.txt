@@ -1,16 +1,2 @@
-function (err, value) {
-    if (err) return reject(err)
-    var length = arguments.length
-
-    if (length <= 2 || !multiArgs) return resolve(value)
-
-    if (Array.isArray(multiArgs)) {
-      var values = {}
-      for (var i = 1; i < length; i++) values[multiArgs[i - 1]] = arguments[i]
-      return resolve(values)
-    }
-
-    var values = new Array(length - 1)
-    for (var i = 1; i < length; ++i) values[i - 1] = arguments[i]
-    resolve(values)
-  }
+some 
+words

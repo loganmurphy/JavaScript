@@ -1,0 +1,15 @@
+{
+  "name": "express_practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "express_exercise.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hbs": "^4.0.1",
+    "nodemon": "^1.12.1"
+  }
+}

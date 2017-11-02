@@ -17,8 +17,8 @@ class Person {
     return this.create_greeting(other)
   }
   lazy_greet(other, name){
-    setTimeout(function () {
-        console.log('Yo ' + other.name + '! from ' + name.name + '.');
+    setTimeout( () => {
+        console.log(this.create_greeting(other));
     }, 1000);
   }
 }
